@@ -1,0 +1,895 @@
+{
+  "slug": "dragon-ball",
+  "en": {
+    "title": "Dragon Ball",
+    "lang": "en",
+    "meta_title": "Dragon Ball Watch Order: Complete Guide 2026 (All Series + Films)",
+    "meta_description": "The complete Dragon Ball watch order with 3 paths: canon only, standard, or completionist. Every series, 23 films, and filler guide. Updated February 2026.",
+    "category_tag": "Sh\u014dnen \u00b7 6 Series \u00b7 23 Films",
+    "hero": {
+      "series": 6,
+      "films": 23,
+      "hours": 800,
+      "updated": "February 2026"
+    },
+    "intro": "Dragon Ball is one of the most sprawling franchises in anime history. Six series, 23 films, non-canon timelines, and the eternal question \u2014 <em>GT or no GT?</em> This guide cuts through the confusion with three clear watch paths, exact film placement, and a complete filler breakdown.",
+    "quick_answer": "Watch in this order: <strong>Dragon Ball \u2192 Dragon Ball Z (or Kai) \u2192 Dragon Ball Super \u2192 Dragon Ball Daima</strong>. Insert <strong>Super: Broly</strong> right after DBS episode 131, then <strong>Super Hero</strong> after that. Skip <strong>GT</strong> unless you want everything \u2014 it\u2019s non-canon and takes place in an alternate timeline. For films, the only ones that <em>matter</em> are <strong>Battle of Gods</strong>, <strong>Resurrection F</strong>, <strong>Broly</strong>, and <strong>Super Hero</strong> \u2014 all others are enjoyable but non-essential.",
+    "paths": [
+      {
+        "id": 1,
+        "icon": "\u26a1",
+        "name": "The Essentialist",
+        "subtitle": "Canon only, no filler, no fluff",
+        "description": "The leanest way through Dragon Ball. Only canon series, only the 4 canon films. You skip GT entirely and avoid all filler arcs in Z.",
+        "hours": "~350 hours",
+        "includes": "DB + Kai + DBS + Daima + 4 canon films"
+      },
+      {
+        "id": 2,
+        "icon": "\ud83c\udfaf",
+        "name": "The Standard",
+        "subtitle": "Canon + best films \u2014 RECOMMENDED",
+        "description": "The best balance. You get the full canon experience plus the most enjoyable non-canon films. This is what we recommend for most viewers.",
+        "hours": "~360 hours",
+        "includes": "DB + Kai + DBS + Daima + canon films + select non-canon films",
+        "recommended": true
+      },
+      {
+        "id": 3,
+        "icon": "\ud83c\udfc6",
+        "name": "The Completionist",
+        "subtitle": "Everything, including GT and fillers",
+        "description": "You want it all. Every episode, every filler arc, every film, and yes \u2014 GT. This path is a massive commitment but covers every corner of the franchise.",
+        "hours": "~900 hours",
+        "includes": "DB + DBZ (with fillers) + DBS + GT + Daima + all 23 films"
+      }
+    ],
+    "timeline": [
+      {
+        "num": 1,
+        "title": "Dragon Ball",
+        "subtitle": "The original adventure",
+        "type": "canon",
+        "episodes": "153 episodes",
+        "when": "Start here",
+        "path": "All paths",
+        "verdict": "must_watch",
+        "notes": "Where it all begins. Kid Goku's journey from the mountains to the World Martial Arts Tournament."
+      },
+      {
+        "num": 2,
+        "title": "Dragon Ball Z",
+        "subtitle": "The full Saiyan saga and beyond",
+        "type": "mixed",
+        "episodes": "291 episodes",
+        "when": "After Dragon Ball",
+        "path": "Path 3 only",
+        "verdict": "watchable",
+        "notes": "The original DBZ with all filler arcs included. Path 1 & 2 viewers should watch Kai instead."
+      },
+      {
+        "num": "2b",
+        "title": "Dragon Ball Z Kai",
+        "subtitle": "Remastered, filler-free Z",
+        "type": "canon",
+        "episodes": "159 episodes",
+        "when": "After Dragon Ball (replaces DBZ)",
+        "path": "Path 1 & 2",
+        "verdict": "must_watch",
+        "notes": "The definitive way to watch Z. Same story, no filler, better pacing. Includes Kai: The Final Chapters.",
+        "recommended": true
+      },
+      {
+        "num": 3,
+        "title": "Battle of Gods",
+        "subtitle": "2013 film",
+        "type": "film_canon",
+        "episodes": "1h 25min",
+        "when": "After DBZ ep. 288 / Kai",
+        "path": "Path 2 & 3",
+        "verdict": "watchable",
+        "notes": "Introduces Beerus and whis. Retold in DBS episodes 1-14, so you can skip if watching Super."
+      },
+      {
+        "num": 4,
+        "title": "Resurrection F",
+        "subtitle": "2015 film",
+        "type": "film_canon",
+        "episodes": "1h 33min",
+        "when": "After Battle of Gods",
+        "path": "Path 2 & 3",
+        "verdict": "watchable",
+        "notes": "Frieza returns. Also retold in DBS episodes 15-27. Same skip logic applies."
+      },
+      {
+        "num": 5,
+        "title": "Dragon Ball Super",
+        "subtitle": "The continuation of the canon story",
+        "type": "canon",
+        "episodes": "131 episodes",
+        "when": "After Resurrection F / Kai",
+        "path": "All paths",
+        "verdict": "must_watch",
+        "notes": "The canonical continuation. Universe 6 Saga, Goku Black, Tournament of Power. Essential viewing."
+      },
+      {
+        "num": 6,
+        "title": "Dragon Ball Super: Broly",
+        "subtitle": "2018 film",
+        "type": "film_canon",
+        "episodes": "1h 40min",
+        "when": "After DBS ep. 131",
+        "path": "All paths",
+        "verdict": "must_watch",
+        "notes": "Canon film. Reintroduces Broly into the official timeline. Stunning animation by Naotoshi Shida."
+      },
+      {
+        "num": 7,
+        "title": "Dragon Ball Super: Super Hero",
+        "subtitle": "2022 film",
+        "type": "film_canon",
+        "episodes": "1h 40min",
+        "when": "After Broly",
+        "path": "All paths",
+        "verdict": "must_watch",
+        "notes": "Canon film focused on Gohan and Piccolo. Introduces new transformations."
+      },
+      {
+        "num": 8,
+        "title": "Dragon Ball Daima",
+        "subtitle": "2024 series",
+        "type": "canon",
+        "episodes": "20 episodes",
+        "when": "After Super Hero",
+        "path": "All paths",
+        "verdict": "must_watch",
+        "notes": "The latest canon series. A new adventure in the Demon Realm with mini versions of the cast."
+      },
+      {
+        "num": 9,
+        "title": "Dragon Ball GT",
+        "subtitle": "The non-canon continuation",
+        "type": "non_canon",
+        "episodes": "64 episodes",
+        "when": "After DBS (optional)",
+        "path": "Path 3 only",
+        "verdict": "skip",
+        "notes": "Non-canon sequel. Takes place in an alternate timeline. Has its fans, but not required for the story."
+      }
+    ],
+    "films": [
+      {
+        "title": "Curse of the Blood Rubies",
+        "year": 1986,
+        "canon": false,
+        "placement": "Standalone retelling of early DB",
+        "verdict": "skip"
+      },
+      {
+        "title": "Sleeping Princess in Devil's Castle",
+        "year": 1987,
+        "canon": false,
+        "placement": "During early Dragon Ball",
+        "verdict": "skip"
+      },
+      {
+        "title": "Mystical Adventure",
+        "year": 1988,
+        "canon": false,
+        "placement": "Alternate retelling of Tien Saga",
+        "verdict": "skip"
+      },
+      {
+        "title": "Dead Zone",
+        "year": 1989,
+        "canon": false,
+        "placement": "Before DBZ",
+        "verdict": "watchable"
+      },
+      {
+        "title": "The World's Strongest",
+        "year": 1990,
+        "canon": false,
+        "placement": "During Saiyan Saga",
+        "verdict": "skip"
+      },
+      {
+        "title": "The Tree of Might",
+        "year": 1990,
+        "canon": false,
+        "placement": "During Saiyan Saga",
+        "verdict": "watchable"
+      },
+      {
+        "title": "Lord Slug",
+        "year": 1991,
+        "canon": false,
+        "placement": "During Frieza Saga",
+        "verdict": "skip"
+      },
+      {
+        "title": "Cooler's Revenge",
+        "year": 1991,
+        "canon": false,
+        "placement": "After Frieza Saga",
+        "verdict": "watchable"
+      },
+      {
+        "title": "The Return of Cooler",
+        "year": 1992,
+        "canon": false,
+        "placement": "During Cell Saga",
+        "verdict": "skip"
+      },
+      {
+        "title": "Super Android 13!",
+        "year": 1992,
+        "canon": false,
+        "placement": "During Cell Saga",
+        "verdict": "skip"
+      },
+      {
+        "title": "Broly \u2013 The Legendary Super Saiyan",
+        "year": 1993,
+        "canon": false,
+        "placement": "During Cell Games",
+        "verdict": "watchable"
+      },
+      {
+        "title": "Bojack Unbound",
+        "year": 1993,
+        "canon": false,
+        "placement": "After Cell Games",
+        "verdict": "watchable"
+      },
+      {
+        "title": "Broly \u2013 Second Coming",
+        "year": 1994,
+        "canon": false,
+        "placement": "During Buu Saga",
+        "verdict": "skip"
+      },
+      {
+        "title": "Bio-Broly",
+        "year": 1994,
+        "canon": false,
+        "placement": "During Buu Saga",
+        "verdict": "skip"
+      },
+      {
+        "title": "Fusion Reborn",
+        "year": 1995,
+        "canon": false,
+        "placement": "During Buu Saga",
+        "verdict": "watchable"
+      },
+      {
+        "title": "Wrath of the Dragon",
+        "year": 1995,
+        "canon": false,
+        "placement": "After Buu Saga",
+        "verdict": "watchable"
+      },
+      {
+        "title": "The Path to Power",
+        "year": 1996,
+        "canon": false,
+        "placement": "Standalone DB retelling",
+        "verdict": "watchable"
+      },
+      {
+        "title": "A Hero's Legacy",
+        "year": 1997,
+        "canon": false,
+        "placement": "After GT",
+        "verdict": "skip"
+      },
+      {
+        "title": "Yo! Son Goku and His Friends Return!!",
+        "year": 2008,
+        "canon": false,
+        "placement": "After DBZ, before DBS",
+        "verdict": "skip"
+      },
+      {
+        "title": "Battle of Gods",
+        "year": 2013,
+        "canon": true,
+        "placement": "After DBZ ep. 288 / Before DBS",
+        "verdict": "must_watch"
+      },
+      {
+        "title": "Resurrection F",
+        "year": 2015,
+        "canon": true,
+        "placement": "After Battle of Gods / Before DBS ep. 28",
+        "verdict": "must_watch"
+      },
+      {
+        "title": "Dragon Ball Super: Broly",
+        "year": 2018,
+        "canon": true,
+        "placement": "After DBS ep. 131",
+        "verdict": "must_watch"
+      },
+      {
+        "title": "Dragon Ball Super: Super Hero",
+        "year": 2022,
+        "canon": true,
+        "placement": "After DBS: Broly",
+        "verdict": "must_watch"
+      }
+    ],
+    "fillers": [
+      {
+        "arc": "Garlic Jr. Saga",
+        "episodes": "108\u2013117",
+        "verdict": "skip",
+        "notes": "Non-canon filler between Frieza and Cell sagas."
+      },
+      {
+        "arc": "Otherworld Tournament",
+        "episodes": "195\u2013199",
+        "verdict": "watchable",
+        "notes": "Fun filler arc with Goku fighting in the afterlife."
+      },
+      {
+        "arc": "Great Saiyaman Filler",
+        "episodes": "200\u2013209 (partial)",
+        "verdict": "skip",
+        "notes": "Extended slice-of-life filler during the Saiyaman arc."
+      },
+      {
+        "arc": "Various DBZ Fillers",
+        "episodes": "Scattered throughout",
+        "verdict": "skip",
+        "notes": "Kai removes all of these. Use Kai for the cleanest experience."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Should I watch Dragon Ball GT?",
+        "answer": "GT is optional. It was produced by Toei Animation without direct involvement from Akira Toriyama and is not part of the official canon. Dragon Ball Super effectively replaced GT as the canonical continuation. That said, GT has its moments \u2014 the Super Saiyan 4 transformation is iconic, and the final episode is genuinely emotional. Watch it if you're a completionist, skip it if you want to stick to canon."
+      },
+      {
+        "question": "Is Dragon Ball GT canon?",
+        "answer": "No. Dragon Ball GT is not considered canon. It exists in an alternate timeline separate from the main continuity established by Akira Toriyama. Dragon Ball Super is the official canonical sequel to Dragon Ball Z."
+      },
+      {
+        "question": "Do I need to watch Dragon Ball before Dragon Ball Z?",
+        "answer": "Technically no, but strongly recommended. Dragon Ball introduces Goku, the core cast, and the world-building that DBZ builds upon. Many emotional moments in Z hit harder with DB context. If you absolutely can't commit, you can start with Z/Kai, but you'll miss important character development."
+      },
+      {
+        "question": "Where can I watch all of Dragon Ball?",
+        "answer": "Crunchyroll has the most complete Dragon Ball library, including Dragon Ball, Dragon Ball Z, Dragon Ball Super, Dragon Ball GT, Dragon Ball Daima, and most of the films. Some films may also be available on Amazon Prime Video or Netflix depending on your region."
+      },
+      {
+        "question": "How long does it take to watch all of Dragon Ball?",
+        "answer": "Watching everything (all series + all films) takes approximately 800+ hours. The Essentialist path (canon only) takes about 350 hours. The Standard recommended path takes about 360 hours. The Completionist path with GT and all fillers reaches approximately 900 hours."
+      },
+      {
+        "question": "What order should I watch the Dragon Ball Super movies?",
+        "answer": "The four canon DBS-era films should be watched in this order: Battle of Gods (after DBZ/Kai), Resurrection F (after Battle of Gods), Dragon Ball Super: Broly (after DBS episode 131), and Dragon Ball Super: Super Hero (after Broly). Note that Battle of Gods and Resurrection F are retold in DBS episodes 1-27, so you can skip the films if you're watching the series."
+      }
+    ],
+    "streaming": [
+      {
+        "platform": "Crunchyroll",
+        "icon": "\ud83d\udfe0",
+        "available": ["Dragon Ball", "Dragon Ball Z", "Dragon Ball Z Kai", "Dragon Ball Super", "Dragon Ball GT", "Dragon Ball Daima", "Most films"],
+        "cta": "Start Watching on Crunchyroll \u2014 14 Days Free",
+        "url": "https://www.crunchyroll.com/?utm_source=animewatchorder&utm_medium=affiliate"
+      },
+      {
+        "platform": "Netflix",
+        "icon": "\ud83d\udd34",
+        "available": ["Dragon Ball (select regions)", "Dragon Ball Z (select regions)"],
+        "cta": "Check Availability on Netflix",
+        "url": "https://www.netflix.com/"
+      },
+      {
+        "platform": "Amazon Prime Video",
+        "icon": "\ud83d\udd35",
+        "available": ["Dragon Ball Super: Broly", "Dragon Ball Super: Super Hero", "Select series (rental/purchase)"],
+        "cta": "Browse on Prime Video",
+        "url": "https://www.amazon.com/gp/video/storefront?tag=YOURAFFID"
+      }
+    ],
+    "manga": {
+      "title": "Want to go further? Continue with the manga.",
+      "description": "Dragon Ball Super anime ended at episode 131 (Chapter 41 of the DBS manga). The manga continues well beyond the anime with new arcs \u2014 the Galactic Patrol Prisoner Saga, Granolah the Survivor Saga, and beyond. If you want to continue the story without waiting for new anime, the DBS manga is where to go.",
+      "link_text": "Dragon Ball Super Vol. 1 on Amazon",
+      "link_url": "https://www.amazon.com/dp/1421594315?tag=YOURAFFID"
+    },
+    "ui": {
+      "quick_answer_label": "\u26a1 Quick Answer",
+      "timeline_heading": "Complete Watch Order Timeline",
+      "films_heading": "Complete Films Guide",
+      "fillers_heading": "Filler Guide",
+      "faq_heading": "Frequently Asked Questions",
+      "streaming_heading": "Where to Watch",
+      "manga_heading": "Continue with the Manga",
+      "paths_heading": "Choose Your Path",
+      "recommended_label": "RECOMMENDED",
+      "col_num": "#",
+      "col_title": "Title",
+      "col_type": "Type",
+      "col_episodes": "Episodes / Length",
+      "col_when": "When to Watch",
+      "col_path": "Path",
+      "col_verdict": "Verdict",
+      "must_watch": "\u2726 Must Watch",
+      "watchable": "\u2727 Watchable",
+      "skip": "\u25cc Skip",
+      "canon": "Canon",
+      "mixed": "Canon + Filler",
+      "film_canon": "Film \u00b7 Canon",
+      "non_canon": "Non-Canon",
+      "filler": "Filler",
+      "film_year": "Year",
+      "film_canon_status": "Canon?",
+      "film_placement": "Placement",
+      "film_verdict": "Verdict",
+      "filler_arc": "Arc",
+      "filler_episodes": "Episodes",
+      "filler_verdict": "Verdict",
+      "filler_notes": "Notes",
+      "yes": "Yes",
+      "no": "No",
+      "home_title": "Anime Watch Order Guides",
+      "home_subtitle": "Clear, structured watch order guides for the most complex anime franchises.",
+      "home_cta": "View Guide",
+      "nav_home": "Home",
+      "lang_switch": "FR",
+      "lang_switch_url": "/fr/dragon-ball/",
+      "footer_text": "AnimeWatchOrder.com \u2014 Independent anime watch order guides. Not affiliated with any streaming platform.",
+      "footer_affiliate": "This site contains affiliate links. We may earn a commission at no extra cost to you."
+    }
+  },
+  "fr": {
+    "title": "Dragon Ball",
+    "lang": "fr",
+    "meta_title": "Dragon Ball Ordre de Visionnage : Guide Complet 2026 (Toutes les S\u00e9ries + Films)",
+    "meta_description": "L'ordre de visionnage complet de Dragon Ball avec 3 parcours : canon uniquement, standard ou complet. Toutes les s\u00e9ries, 23 films et guide des fillers. Mis \u00e0 jour f\u00e9vrier 2026.",
+    "category_tag": "Sh\u014dnen \u00b7 6 S\u00e9ries \u00b7 23 Films",
+    "hero": {
+      "series": 6,
+      "films": 23,
+      "hours": 800,
+      "updated": "F\u00e9vrier 2026"
+    },
+    "intro": "Dragon Ball est l'une des franchises les plus tentaculaires de l'histoire de l'anime. Six s\u00e9ries, 23 films, des timelines non-canon, et l'\u00e9ternelle question \u2014 <em>GT ou pas GT ?</em> Ce guide d\u00e9m\u00eale la confusion avec trois parcours clairs, le placement exact des films et une liste compl\u00e8te des fillers.",
+    "quick_answer": "Regardez dans cet ordre : <strong>Dragon Ball \u2192 Dragon Ball Z (ou Kai) \u2192 Dragon Ball Super \u2192 Dragon Ball Daima</strong>. Ins\u00e9rez <strong>Super: Broly</strong> juste apr\u00e8s DBS \u00e9pisode 131, puis <strong>Super Hero</strong> apr\u00e8s. Ignorez <strong>GT</strong> sauf si vous voulez tout voir \u2014 c'est non-canon et se d\u00e9roule dans une timeline alternative. Pour les films, seuls <strong>Battle of Gods</strong>, <strong>Resurrection F</strong>, <strong>Broly</strong> et <strong>Super Hero</strong> comptent vraiment.",
+    "paths": [
+      {
+        "id": 1,
+        "icon": "\u26a1",
+        "name": "L'Essentialiste",
+        "subtitle": "Canon uniquement, aucun filler",
+        "description": "Le parcours le plus direct. Seulement les s\u00e9ries canon et les 4 films canon. Vous sautez GT et \u00e9vitez tous les fillers de Z.",
+        "hours": "~350 heures",
+        "includes": "DB + Kai + DBS + Daima + 4 films canon"
+      },
+      {
+        "id": 2,
+        "icon": "\ud83c\udfaf",
+        "name": "Le Standard",
+        "subtitle": "Canon + meilleurs films \u2014 RECOMMAND\u00c9",
+        "description": "Le meilleur \u00e9quilibre. L'exp\u00e9rience canon compl\u00e8te plus les films non-canon les plus appr\u00e9ci\u00e9s. C'est ce qu'on recommande pour la plupart des spectateurs.",
+        "hours": "~360 heures",
+        "includes": "DB + Kai + DBS + Daima + films canon + films non-canon s\u00e9lectionn\u00e9s",
+        "recommended": true
+      },
+      {
+        "id": 3,
+        "icon": "\ud83c\udfc6",
+        "name": "Le Compl\u00e9tiste",
+        "subtitle": "Tout, y compris GT et les fillers",
+        "description": "Vous voulez tout voir. Chaque \u00e9pisode, chaque filler, chaque film, et oui \u2014 GT. Ce parcours est un engagement massif mais couvre chaque recoin de la franchise.",
+        "hours": "~900 heures",
+        "includes": "DB + DBZ (avec fillers) + DBS + GT + Daima + les 23 films"
+      }
+    ],
+    "timeline": [
+      {
+        "num": 1,
+        "title": "Dragon Ball",
+        "subtitle": "L'aventure originale",
+        "type": "canon",
+        "episodes": "153 \u00e9pisodes",
+        "when": "Commencez ici",
+        "path": "Tous les parcours",
+        "verdict": "must_watch",
+        "notes": "L\u00e0 o\u00f9 tout commence. Le voyage du jeune Goku des montagnes au Tournoi des Arts Martiaux."
+      },
+      {
+        "num": 2,
+        "title": "Dragon Ball Z",
+        "subtitle": "La saga Saiyan compl\u00e8te et au-del\u00e0",
+        "type": "mixed",
+        "episodes": "291 \u00e9pisodes",
+        "when": "Apr\u00e8s Dragon Ball",
+        "path": "Parcours 3 uniquement",
+        "verdict": "watchable",
+        "notes": "Le DBZ original avec tous les arcs filler. Les parcours 1 & 2 devraient regarder Kai \u00e0 la place."
+      },
+      {
+        "num": "2b",
+        "title": "Dragon Ball Z Kai",
+        "subtitle": "Z remasteris\u00e9, sans fillers",
+        "type": "canon",
+        "episodes": "159 \u00e9pisodes",
+        "when": "Apr\u00e8s Dragon Ball (remplace DBZ)",
+        "path": "Parcours 1 & 2",
+        "verdict": "must_watch",
+        "notes": "La fa\u00e7on d\u00e9finitive de regarder Z. M\u00eame histoire, aucun filler, meilleur rythme. Inclut Kai: The Final Chapters.",
+        "recommended": true
+      },
+      {
+        "num": 3,
+        "title": "Battle of Gods",
+        "subtitle": "Film de 2013",
+        "type": "film_canon",
+        "episodes": "1h 25min",
+        "when": "Apr\u00e8s DBZ \u00e9p. 288 / Kai",
+        "path": "Parcours 2 & 3",
+        "verdict": "watchable",
+        "notes": "Introduit Beerus et Whis. Repris dans DBS \u00e9pisodes 1-14, donc vous pouvez le passer si vous regardez Super."
+      },
+      {
+        "num": 4,
+        "title": "Resurrection F",
+        "subtitle": "Film de 2015",
+        "type": "film_canon",
+        "episodes": "1h 33min",
+        "when": "Apr\u00e8s Battle of Gods",
+        "path": "Parcours 2 & 3",
+        "verdict": "watchable",
+        "notes": "Le retour de Frieza. Aussi repris dans DBS \u00e9pisodes 15-27. M\u00eame logique de saut."
+      },
+      {
+        "num": 5,
+        "title": "Dragon Ball Super",
+        "subtitle": "La continuation canonique de l'histoire",
+        "type": "canon",
+        "episodes": "131 \u00e9pisodes",
+        "when": "Apr\u00e8s Resurrection F / Kai",
+        "path": "Tous les parcours",
+        "verdict": "must_watch",
+        "notes": "La suite canonique. Saga Univers 6, Goku Black, Tournoi du Pouvoir. Visionnage essentiel."
+      },
+      {
+        "num": 6,
+        "title": "Dragon Ball Super: Broly",
+        "subtitle": "Film de 2018",
+        "type": "film_canon",
+        "episodes": "1h 40min",
+        "when": "Apr\u00e8s DBS \u00e9p. 131",
+        "path": "Tous les parcours",
+        "verdict": "must_watch",
+        "notes": "Film canon. R\u00e9introduit Broly dans la timeline officielle. Animation exceptionnelle."
+      },
+      {
+        "num": 7,
+        "title": "Dragon Ball Super: Super Hero",
+        "subtitle": "Film de 2022",
+        "type": "film_canon",
+        "episodes": "1h 40min",
+        "when": "Apr\u00e8s Broly",
+        "path": "Tous les parcours",
+        "verdict": "must_watch",
+        "notes": "Film canon centr\u00e9 sur Gohan et Piccolo. Introduit de nouvelles transformations."
+      },
+      {
+        "num": 8,
+        "title": "Dragon Ball Daima",
+        "subtitle": "S\u00e9rie de 2024",
+        "type": "canon",
+        "episodes": "20 \u00e9pisodes",
+        "when": "Apr\u00e8s Super Hero",
+        "path": "Tous les parcours",
+        "verdict": "must_watch",
+        "notes": "La derni\u00e8re s\u00e9rie canon. Une nouvelle aventure dans le Royaume des D\u00e9mons avec des versions miniatures du casting."
+      },
+      {
+        "num": 9,
+        "title": "Dragon Ball GT",
+        "subtitle": "La suite non-canon",
+        "type": "non_canon",
+        "episodes": "64 \u00e9pisodes",
+        "when": "Apr\u00e8s DBS (optionnel)",
+        "path": "Parcours 3 uniquement",
+        "verdict": "skip",
+        "notes": "Suite non-canon. Se d\u00e9roule dans une timeline alternative. A ses fans, mais pas n\u00e9cessaire pour l'histoire."
+      }
+    ],
+    "films": [
+      {
+        "title": "La L\u00e9gende de Shenron",
+        "year": 1986,
+        "canon": false,
+        "placement": "Adaptation libre du d\u00e9but de DB",
+        "verdict": "skip"
+      },
+      {
+        "title": "La Princesse endormie dans le ch\u00e2teau d\u00e9moniaque",
+        "year": 1987,
+        "canon": false,
+        "placement": "Pendant le d\u00e9but de Dragon Ball",
+        "verdict": "skip"
+      },
+      {
+        "title": "L'Aventure mystique",
+        "year": 1988,
+        "canon": false,
+        "placement": "Adaptation libre de la saga Tenshinhan",
+        "verdict": "skip"
+      },
+      {
+        "title": "\u00c0 la poursuite de Garlic",
+        "year": 1989,
+        "canon": false,
+        "placement": "Avant DBZ",
+        "verdict": "watchable"
+      },
+      {
+        "title": "Le Robot des glaces",
+        "year": 1990,
+        "canon": false,
+        "placement": "Pendant la Saga des Saiyans",
+        "verdict": "skip"
+      },
+      {
+        "title": "Le Combat fratricide",
+        "year": 1990,
+        "canon": false,
+        "placement": "Pendant la Saga des Saiyans",
+        "verdict": "watchable"
+      },
+      {
+        "title": "La Menace de Namek",
+        "year": 1991,
+        "canon": false,
+        "placement": "Pendant la Saga Frieza",
+        "verdict": "skip"
+      },
+      {
+        "title": "La Revanche de Cooler",
+        "year": 1991,
+        "canon": false,
+        "placement": "Apr\u00e8s la Saga Frieza",
+        "verdict": "watchable"
+      },
+      {
+        "title": "Cent mille guerriers de m\u00e9tal",
+        "year": 1992,
+        "canon": false,
+        "placement": "Pendant la Saga Cell",
+        "verdict": "skip"
+      },
+      {
+        "title": "L'Offensive des cyborgs",
+        "year": 1992,
+        "canon": false,
+        "placement": "Pendant la Saga Cell",
+        "verdict": "skip"
+      },
+      {
+        "title": "Broly \u2013 Le Super Guerrier L\u00e9gendaire",
+        "year": 1993,
+        "canon": false,
+        "placement": "Pendant les Cell Games",
+        "verdict": "watchable"
+      },
+      {
+        "title": "Rivaux dangereux",
+        "year": 1993,
+        "canon": false,
+        "placement": "Apr\u00e8s les Cell Games",
+        "verdict": "watchable"
+      },
+      {
+        "title": "Broly, le retour du guerrier l\u00e9gendaire",
+        "year": 1994,
+        "canon": false,
+        "placement": "Pendant la Saga Buu",
+        "verdict": "skip"
+      },
+      {
+        "title": "Bio-Broly",
+        "year": 1994,
+        "canon": false,
+        "placement": "Pendant la Saga Buu",
+        "verdict": "skip"
+      },
+      {
+        "title": "Fusions",
+        "year": 1995,
+        "canon": false,
+        "placement": "Pendant la Saga Buu",
+        "verdict": "watchable"
+      },
+      {
+        "title": "L'Attaque du Dragon",
+        "year": 1995,
+        "canon": false,
+        "placement": "Apr\u00e8s la Saga Buu",
+        "verdict": "watchable"
+      },
+      {
+        "title": "L'aventure sans fin",
+        "year": 1996,
+        "canon": false,
+        "placement": "Adaptation libre de DB",
+        "verdict": "watchable"
+      },
+      {
+        "title": "L'H\u00e9ritage de Goku",
+        "year": 1997,
+        "canon": false,
+        "placement": "Apr\u00e8s GT",
+        "verdict": "skip"
+      },
+      {
+        "title": "Salut ! Son Goku et ses amis sont de retour !!",
+        "year": 2008,
+        "canon": false,
+        "placement": "Apr\u00e8s DBZ, avant DBS",
+        "verdict": "skip"
+      },
+      {
+        "title": "Battle of Gods",
+        "year": 2013,
+        "canon": true,
+        "placement": "Apr\u00e8s DBZ \u00e9p. 288 / Avant DBS",
+        "verdict": "must_watch"
+      },
+      {
+        "title": "La R\u00e9surrection de F",
+        "year": 2015,
+        "canon": true,
+        "placement": "Apr\u00e8s Battle of Gods / Avant DBS \u00e9p. 28",
+        "verdict": "must_watch"
+      },
+      {
+        "title": "Dragon Ball Super: Broly",
+        "year": 2018,
+        "canon": true,
+        "placement": "Apr\u00e8s DBS \u00e9p. 131",
+        "verdict": "must_watch"
+      },
+      {
+        "title": "Dragon Ball Super: Super Hero",
+        "year": 2022,
+        "canon": true,
+        "placement": "Apr\u00e8s DBS: Broly",
+        "verdict": "must_watch"
+      }
+    ],
+    "fillers": [
+      {
+        "arc": "Saga Garlic Jr.",
+        "episodes": "108\u2013117",
+        "verdict": "skip",
+        "notes": "Filler non-canon entre les sagas Frieza et Cell."
+      },
+      {
+        "arc": "Tournoi de l'Au-del\u00e0",
+        "episodes": "195\u2013199",
+        "verdict": "watchable",
+        "notes": "Arc filler amusant avec Goku combattant dans l'au-del\u00e0."
+      },
+      {
+        "arc": "Filler Great Saiyaman",
+        "episodes": "200\u2013209 (partiel)",
+        "verdict": "skip",
+        "notes": "Filler \u00e9tendu de la vie quotidienne pendant l'arc Saiyaman."
+      },
+      {
+        "arc": "Divers fillers DBZ",
+        "episodes": "\u00c9parpill\u00e9s partout",
+        "verdict": "skip",
+        "notes": "Kai supprime tous ces fillers. Utilisez Kai pour l'exp\u00e9rience la plus propre."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Faut-il regarder Dragon Ball GT ?",
+        "answer": "GT est optionnel. Il a \u00e9t\u00e9 produit par Toei Animation sans implication directe d'Akira Toriyama et ne fait pas partie du canon officiel. Dragon Ball Super a effectivement remplac\u00e9 GT comme suite canonique. Cela dit, GT a ses moments \u2014 la transformation Super Saiyan 4 est embl\u00e9matique, et le dernier \u00e9pisode est \u00e9mouvant. Regardez-le si vous \u00eates compl\u00e9tiste, sautez-le si vous voulez rester sur le canon."
+      },
+      {
+        "question": "Est-ce que Dragon Ball GT est canon ?",
+        "answer": "Non. Dragon Ball GT n'est pas consid\u00e9r\u00e9 comme canon. Il existe dans une timeline alternative, s\u00e9par\u00e9e de la continuit\u00e9 principale \u00e9tablie par Akira Toriyama. Dragon Ball Super est la suite canonique officielle de Dragon Ball Z."
+      },
+      {
+        "question": "Faut-il regarder Dragon Ball avant Dragon Ball Z ?",
+        "answer": "Techniquement non, mais c'est fortement recommand\u00e9. Dragon Ball pr\u00e9sente Goku, le casting principal et l'univers sur lequel DBZ se construit. De nombreux moments \u00e9motionnels dans Z ont plus d'impact avec le contexte de DB. Si vous ne pouvez vraiment pas vous engager, vous pouvez commencer par Z/Kai, mais vous manquerez un d\u00e9veloppement important des personnages."
+      },
+      {
+        "question": "O\u00f9 peut-on regarder tout Dragon Ball ?",
+        "answer": "Crunchyroll poss\u00e8de la biblioth\u00e8que Dragon Ball la plus compl\u00e8te, incluant Dragon Ball, Dragon Ball Z, Dragon Ball Super, Dragon Ball GT, Dragon Ball Daima, et la plupart des films. Certains films peuvent aussi \u00eatre disponibles sur Amazon Prime Video ou Netflix selon votre r\u00e9gion."
+      },
+      {
+        "question": "Combien de temps faut-il pour regarder tout Dragon Ball ?",
+        "answer": "Tout regarder (toutes les s\u00e9ries + tous les films) prend environ 800+ heures. Le parcours Essentialiste (canon uniquement) prend environ 350 heures. Le parcours Standard recommand\u00e9 prend environ 360 heures. Le parcours Compl\u00e9tiste avec GT et tous les fillers atteint environ 900 heures."
+      },
+      {
+        "question": "Dans quel ordre regarder les films Dragon Ball Super ?",
+        "answer": "Les quatre films canon de l'\u00e8re DBS doivent \u00eatre regard\u00e9s dans cet ordre : Battle of Gods (apr\u00e8s DBZ/Kai), Resurrection F (apr\u00e8s Battle of Gods), Dragon Ball Super: Broly (apr\u00e8s DBS \u00e9pisode 131), et Dragon Ball Super: Super Hero (apr\u00e8s Broly). Notez que Battle of Gods et Resurrection F sont repris dans les \u00e9pisodes 1-27 de DBS, donc vous pouvez sauter les films si vous regardez la s\u00e9rie."
+      }
+    ],
+    "streaming": [
+      {
+        "platform": "Crunchyroll",
+        "icon": "\ud83d\udfe0",
+        "available": ["Dragon Ball", "Dragon Ball Z", "Dragon Ball Z Kai", "Dragon Ball Super", "Dragon Ball GT", "Dragon Ball Daima", "La plupart des films"],
+        "cta": "Commencer sur Crunchyroll \u2014 14 jours gratuits",
+        "url": "https://www.crunchyroll.com/?utm_source=animewatchorder&utm_medium=affiliate"
+      },
+      {
+        "platform": "Netflix",
+        "icon": "\ud83d\udd34",
+        "available": ["Dragon Ball (r\u00e9gions s\u00e9lectionn\u00e9es)", "Dragon Ball Z (r\u00e9gions s\u00e9lectionn\u00e9es)"],
+        "cta": "V\u00e9rifier la disponibilit\u00e9 sur Netflix",
+        "url": "https://www.netflix.com/"
+      },
+      {
+        "platform": "Amazon Prime Video",
+        "icon": "\ud83d\udd35",
+        "available": ["Dragon Ball Super: Broly", "Dragon Ball Super: Super Hero", "S\u00e9ries s\u00e9lectionn\u00e9es (location/achat)"],
+        "cta": "Parcourir sur Prime Video",
+        "url": "https://www.amazon.fr/gp/video/storefront?tag=YOURAFFID"
+      }
+    ],
+    "manga": {
+      "title": "Vous voulez aller plus loin ? Continuez avec le manga.",
+      "description": "L'anime Dragon Ball Super s'est termin\u00e9 \u00e0 l'\u00e9pisode 131 (Chapitre 41 du manga DBS). Le manga continue bien au-del\u00e0 avec de nouveaux arcs \u2014 la Saga du Prisonnier de la Patrouille Galactique, la Saga de Granolah le Survivant, et au-del\u00e0. Si vous voulez continuer l'histoire sans attendre un nouvel anime, le manga DBS est la solution.",
+      "link_text": "Dragon Ball Super Tome 1 sur Amazon",
+      "link_url": "https://www.amazon.fr/dp/2344025871?tag=YOURAFFID"
+    },
+    "ui": {
+      "quick_answer_label": "\u26a1 R\u00e9ponse Rapide",
+      "timeline_heading": "Chronologie Compl\u00e8te de Visionnage",
+      "films_heading": "Guide Complet des Films",
+      "fillers_heading": "Guide des Fillers",
+      "faq_heading": "Questions Fr\u00e9quentes",
+      "streaming_heading": "O\u00f9 Regarder",
+      "manga_heading": "Continuer avec le Manga",
+      "paths_heading": "Choisissez Votre Parcours",
+      "recommended_label": "RECOMMAND\u00c9",
+      "col_num": "#",
+      "col_title": "Titre",
+      "col_type": "Type",
+      "col_episodes": "\u00c9pisodes / Dur\u00e9e",
+      "col_when": "Quand Regarder",
+      "col_path": "Parcours",
+      "col_verdict": "Verdict",
+      "must_watch": "\u2726 Incontournable",
+      "watchable": "\u2727 Regardable",
+      "skip": "\u25cc Passer",
+      "canon": "Canon",
+      "mixed": "Canon + Filler",
+      "film_canon": "Film \u00b7 Canon",
+      "non_canon": "Non-Canon",
+      "filler": "Filler",
+      "film_year": "Ann\u00e9e",
+      "film_canon_status": "Canon ?",
+      "film_placement": "Placement",
+      "film_verdict": "Verdict",
+      "filler_arc": "Arc",
+      "filler_episodes": "\u00c9pisodes",
+      "filler_verdict": "Verdict",
+      "filler_notes": "Notes",
+      "yes": "Oui",
+      "no": "Non",
+      "home_title": "Guides d'Ordre de Visionnage Anime",
+      "home_subtitle": "Des guides clairs et structur\u00e9s pour les franchises anime les plus complexes.",
+      "home_cta": "Voir le Guide",
+      "nav_home": "Accueil",
+      "lang_switch": "EN",
+      "lang_switch_url": "/dragon-ball/",
+      "footer_text": "AnimeWatchOrder.com \u2014 Guides d'ordre de visionnage anime ind\u00e9pendants. Non affili\u00e9 \u00e0 une plateforme de streaming.",
+      "footer_affiliate": "Ce site contient des liens d'affiliation. Nous pouvons recevoir une commission sans co\u00fbt suppl\u00e9mentaire pour vous."
+    }
+  }
+}
