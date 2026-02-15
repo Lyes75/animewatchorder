@@ -16,6 +16,15 @@ DATA_DIR = BASE_DIR / "data"
 SITE_URL = "https://animewatchorder.com"
 CURRENT_YEAR = "2026"
 
+# Google Tag Manager snippet
+GTM_HEAD = """<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TJ84SLJX');</script>
+<!-- End Google Tag Manager -->"""
+
 # Series to generate (add new slugs here)
 SERIES = ["dragon-ball"]
 
@@ -262,6 +271,7 @@ def generate_series_page(slug, data, lang):
 <html lang="{lang}">
 <head>
   <meta charset="UTF-8">
+  {GTM_HEAD}
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{data['meta_title']}</title>
   <meta name="description" content="{data['meta_description']}">
@@ -480,6 +490,7 @@ def generate_homepage(lang, series_list):
 <html lang="{lang}">
 <head>
   <meta charset="UTF-8">
+  {GTM_HEAD}
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{title}</title>
   <meta name="description" content="{description}">
