@@ -25,6 +25,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-TJ84SLJX');</script>
 <!-- End Google Tag Manager -->"""
 
+# Google Search Console verification
+GOOGLE_SITE_VERIFICATION = '<meta name="google-site-verification" content="NC4herujRe5TMX77VnhqjvWdJa6XAwBd5iAVIGxwXbk" />'
+
 # Series to generate (add new slugs here)
 SERIES = ["dragon-ball"]
 
@@ -491,6 +494,7 @@ def generate_homepage(lang, series_list):
 <head>
   <meta charset="UTF-8">
   {GTM_HEAD}
+  {GOOGLE_SITE_VERIFICATION}
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{title}</title>
   <meta name="description" content="{description}">
