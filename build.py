@@ -96,6 +96,7 @@ def build_timeline_rows(data, ui):
             rec_tag = f' <span class="tag-recommended">{ui["recommended_label"]}</span>'
             rec_class = ' class="row--recommended"'
 
+        watch_url = item.get("watch_url", "#")
         row = f"""        <tr{rec_class}>
           <td class="col-num">{item['num']}</td>
           <td class="col-title">{item['title']}{rec_tag}<small>{item['subtitle']}</small></td>
@@ -104,6 +105,7 @@ def build_timeline_rows(data, ui):
           <td>{item['when']}</td>
           <td>{item['path']}</td>
           <td><span class="verdict {verdict_class(item['verdict'])}">{verdict_label(item['verdict'], ui)}</span></td>
+          <td><a href="{watch_url}" class="stream-link" rel="nofollow noopener" target="_blank">CR</a></td>
         </tr>"""
         rows.append(row)
     return "\n".join(rows)
@@ -417,6 +419,7 @@ def generate_series_page(slug, data, lang):
               <th>{ui['col_when']}</th>
               <th>{ui['col_path']}</th>
               <th>{ui['col_verdict']}</th>
+              <th>{ui['col_watch']}</th>
             </tr>
           </thead>
           <tbody>

@@ -91,6 +91,7 @@
         "when": "Start here",
         "path": "All paths",
         "verdict": "must_watch",
+        "watch_url": "#",
         "notes": "Where it all begins. Kid Goku's journey from the mountains to the World Martial Arts Tournament."
       },
       {
@@ -102,6 +103,7 @@
         "when": "After Dragon Ball",
         "path": "Path 3 only",
         "verdict": "watchable",
+        "watch_url": "#",
         "notes": "The original DBZ with all filler arcs included. Path 1 & 2 viewers should watch Kai instead."
       },
       {
@@ -113,6 +115,7 @@
         "when": "After Dragon Ball (replaces DBZ)",
         "path": "Path 1 & 2",
         "verdict": "must_watch",
+        "watch_url": "#",
         "notes": "The definitive way to watch Z. Same story, no filler, better pacing. Includes Kai: The Final Chapters.",
         "recommended": true
       },
@@ -125,6 +128,7 @@
         "when": "After DBZ ep. 288 / Kai",
         "path": "Path 2 & 3",
         "verdict": "watchable",
+        "watch_url": "#",
         "notes": "Introduces Beerus and whis. Retold in DBS episodes 1-14, so you can skip if watching Super."
       },
       {
@@ -136,6 +140,7 @@
         "when": "After Battle of Gods",
         "path": "Path 2 & 3",
         "verdict": "watchable",
+        "watch_url": "#",
         "notes": "Frieza returns. Also retold in DBS episodes 15-27. Same skip logic applies."
       },
       {
@@ -147,6 +152,7 @@
         "when": "After Resurrection F / Kai",
         "path": "All paths",
         "verdict": "must_watch",
+        "watch_url": "#",
         "notes": "The canonical continuation. Universe 6 Saga, Goku Black, Tournament of Power. Essential viewing."
       },
       {
@@ -158,6 +164,7 @@
         "when": "After DBS ep. 131",
         "path": "All paths",
         "verdict": "must_watch",
+        "watch_url": "#",
         "notes": "Canon film. Reintroduces Broly into the official timeline. Stunning animation by Naotoshi Shida."
       },
       {
@@ -169,6 +176,7 @@
         "when": "After Broly",
         "path": "All paths",
         "verdict": "must_watch",
+        "watch_url": "#",
         "notes": "Canon film focused on Gohan and Piccolo. Introduces new transformations."
       },
       {
@@ -180,6 +188,7 @@
         "when": "After Super Hero",
         "path": "All paths",
         "verdict": "must_watch",
+        "watch_url": "#",
         "notes": "The latest canon series. A new adventure in the Demon Realm with mini versions of the cast."
       },
       {
@@ -191,6 +200,7 @@
         "when": "After DBS (optional)",
         "path": "Path 3 only",
         "verdict": "skip",
+        "watch_url": "#",
         "notes": "Non-canon sequel. Takes place in an alternate timeline. Has its fans, but not required for the story."
       }
     ],
@@ -457,6 +467,7 @@
       "col_when": "When to Watch",
       "col_path": "Path",
       "col_verdict": "Verdict",
+      "col_watch": "Watch Now",
       "must_watch": "\u2726 Must Watch",
       "watchable": "\u2727 Watchable",
       "skip": "\u25cc Skip",
@@ -576,6 +587,7 @@
         "when": "Commencez ici",
         "path": "Tous les parcours",
         "verdict": "must_watch",
+        "watch_url": "#",
         "notes": "L\u00e0 o\u00f9 tout commence. Le voyage du jeune Goku des montagnes au Tournoi des Arts Martiaux."
       },
       {
@@ -587,6 +599,7 @@
         "when": "Apr\u00e8s Dragon Ball",
         "path": "Parcours 3 uniquement",
         "verdict": "watchable",
+        "watch_url": "#",
         "notes": "Le DBZ original avec tous les arcs filler. Les parcours 1 & 2 devraient regarder Kai \u00e0 la place."
       },
       {
@@ -598,6 +611,7 @@
         "when": "Apr\u00e8s Dragon Ball (remplace DBZ)",
         "path": "Parcours 1 & 2",
         "verdict": "must_watch",
+        "watch_url": "#",
         "notes": "La fa\u00e7on d\u00e9finitive de regarder Z. M\u00eame histoire, aucun filler, meilleur rythme. Inclut Kai: The Final Chapters.",
         "recommended": true
       },
@@ -610,6 +624,7 @@
         "when": "Apr\u00e8s DBZ \u00e9p. 288 / Kai",
         "path": "Parcours 2 & 3",
         "verdict": "watchable",
+        "watch_url": "#",
         "notes": "Introduit Beerus et Whis. Repris dans DBS \u00e9pisodes 1-14, donc vous pouvez le passer si vous regardez Super."
       },
       {
@@ -621,6 +636,7 @@
         "when": "Apr\u00e8s Battle of Gods",
         "path": "Parcours 2 & 3",
         "verdict": "watchable",
+        "watch_url": "#",
         "notes": "Le retour de Frieza. Aussi repris dans DBS \u00e9pisodes 15-27. M\u00eame logique de saut."
       },
       {
@@ -632,6 +648,7 @@
         "when": "Apr\u00e8s Resurrection F / Kai",
         "path": "Tous les parcours",
         "verdict": "must_watch",
+        "watch_url": "#",
         "notes": "La suite canonique. Saga Univers 6, Goku Black, Tournoi du Pouvoir. Visionnage essentiel."
       },
       {
@@ -643,6 +660,7 @@
         "when": "Apr\u00e8s DBS \u00e9p. 131",
         "path": "Tous les parcours",
         "verdict": "must_watch",
+        "watch_url": "#",
         "notes": "Film canon. R\u00e9introduit Broly dans la timeline officielle. Animation exceptionnelle."
       },
       {
@@ -654,6 +672,7 @@
         "when": "Apr\u00e8s Broly",
         "path": "Tous les parcours",
         "verdict": "must_watch",
+        "watch_url": "#",
         "notes": "Film canon centr\u00e9 sur Gohan et Piccolo. Introduit de nouvelles transformations."
       },
       {
@@ -665,6 +684,7 @@
         "when": "Apr\u00e8s Super Hero",
         "path": "Tous les parcours",
         "verdict": "must_watch",
+        "watch_url": "#",
         "notes": "La derni\u00e8re s\u00e9rie canon. Une nouvelle aventure dans le Royaume des D\u00e9mons avec des versions miniatures du casting."
       },
       {
@@ -676,6 +696,7 @@
         "when": "Apr\u00e8s DBS (optionnel)",
         "path": "Parcours 3 uniquement",
         "verdict": "skip",
+        "watch_url": "#",
         "notes": "Suite non-canon. Se d\u00e9roule dans une timeline alternative. A ses fans, mais pas n\u00e9cessaire pour l'histoire."
       }
     ],
@@ -942,6 +963,7 @@
       "col_when": "Quand Regarder",
       "col_path": "Parcours",
       "col_verdict": "Verdict",
+      "col_watch": "Regarder",
       "must_watch": "\u2726 Incontournable",
       "watchable": "\u2727 Regardable",
       "skip": "\u25cc Passer",
