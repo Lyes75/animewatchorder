@@ -14,33 +14,70 @@
     },
     "intro": "Dragon Ball is one of the most sprawling franchises in anime history. Six series, 23 films, non-canon timelines, and the eternal question \u2014 <em>GT or no GT?</em> This guide cuts through the confusion with three clear watch paths, exact film placement, and a complete filler breakdown.",
     "quick_answer": "Watch in this order: <strong>Dragon Ball \u2192 Dragon Ball Z (or Kai) \u2192 Dragon Ball Super \u2192 Dragon Ball Daima</strong>. Insert <strong>Super: Broly</strong> right after DBS episode 131, then <strong>Super Hero</strong> after that. Skip <strong>GT</strong> unless you want everything \u2014 it\u2019s non-canon and takes place in an alternate timeline. For films, the only ones that <em>matter</em> are <strong>Battle of Gods</strong>, <strong>Resurrection F</strong>, <strong>Broly</strong>, and <strong>Super Hero</strong> \u2014 all others are enjoyable but non-essential.",
+    "why_confusing": {
+      "content": "Unlike most anime, Dragon Ball has been remade, retconned, and expanded over 40 years. Here\u2019s what trips people up:<ul><li><strong>DBZ vs Dragon Ball Kai</strong> \u2014 Kai is a remastered, heavily trimmed version of DBZ. Same story, ~45% fewer episodes, almost no filler. You don\u2019t need to watch both.</li><li><strong>Dragon Ball GT</strong> \u2014 Not written by Toriyama. Mostly disliked by fans. Canon status: officially non-canon since Super was created as the true continuation.</li><li><strong>The films</strong> \u2014 Out of 23 films, only 4 are canon. The rest are fun standalone stories that don\u2019t affect the main plot.</li><li><strong>Dragon Ball Super: Broly</strong> \u2014 This film canonically replaces the two original Broly films. If you\u2019ve seen those, you can still watch this one.</li></ul>"
+    },
+    "dbz_vs_kai": {
+      "heading": "Dragon Ball Z vs Kai: Which to Watch?",
+      "intro": "This is one of the most common questions from newcomers. Here\u2019s the honest comparison:",
+      "cards": [
+        {
+          "title": "Dragon Ball Z",
+          "subtitle": "(1989\u20131996)",
+          "color_class": "compare-card--orange",
+          "stats": [
+            {"label": "Episodes", "value": "291"},
+            {"label": "Filler episodes", "value": "~170 (58%)"},
+            {"label": "Animation quality", "value": "Original cel"},
+            {"label": "Classic dub available", "value": "\u2705 Yes"},
+            {"label": "Watch time", "value": "~97 hours"},
+            {"label": "Best for", "value": "Completionists"}
+          ]
+        },
+        {
+          "title": "Dragon Ball Kai",
+          "subtitle": "(2009\u20132015)",
+          "color_class": "compare-card--green",
+          "recommended": true,
+          "stats": [
+            {"label": "Episodes", "value": "159"},
+            {"label": "Filler episodes", "value": "~5 (3%)"},
+            {"label": "Animation quality", "value": "Remastered HD"},
+            {"label": "Classic dub available", "value": "\u26a0\ufe0f New dub only"},
+            {"label": "Watch time", "value": "~53 hours"},
+            {"label": "Best for", "value": "Most viewers"}
+          ]
+        }
+      ],
+      "verdict": "For 90% of viewers, <strong>Dragon Ball Kai is the better choice</strong>. It tells the exact same story in 45% less time by cutting the filler and padding that slows down DBZ. The only reason to choose DBZ is if you specifically want the original animation style or the classic Faulconer soundtrack (Western dub). You can always go back to the full DBZ later."
+    },
     "paths": [
       {
         "id": 1,
-        "icon": "\u26a1",
+        "icon": "\ud83c\udfaf",
         "name": "The Essentialist",
-        "subtitle": "Canon only, no filler, no fluff",
-        "description": "The leanest way through Dragon Ball. Only canon series, only the 4 canon films. You skip GT entirely and avoid all filler arcs in Z.",
-        "hours": "~350 hours",
+        "subtitle": "Path 1 \u2014 Canon Only",
+        "description": "The core story without detours. DBZ replaced by Kai. No GT, no non-canon films. Best for newcomers who want the clean experience.",
+        "hours": "\u23f1 ~350 hours \u00b7 Recommended for first-timers",
         "includes": "DB + Kai + DBS + Daima + 4 canon films"
       },
       {
         "id": 2,
-        "icon": "\ud83c\udfaf",
+        "icon": "\u26a1",
         "name": "The Standard",
-        "subtitle": "Canon + best films \u2014 RECOMMENDED",
-        "description": "The best balance. You get the full canon experience plus the most enjoyable non-canon films. This is what we recommend for most viewers.",
-        "hours": "~360 hours",
+        "subtitle": "Path 2 \u2014 Canon + Best Films",
+        "description": "The canon path above, plus the 4 canon films and a few beloved non-canon ones. The experience most fans would recommend.",
+        "hours": "\u23f1 ~360 hours \u00b7 Recommended for most viewers",
         "includes": "DB + Kai + DBS + Daima + canon films + select non-canon films",
         "recommended": true
       },
       {
         "id": 3,
-        "icon": "\ud83c\udfc6",
+        "icon": "\ud83d\udd25",
         "name": "The Completionist",
-        "subtitle": "Everything, including GT and fillers",
-        "description": "You want it all. Every episode, every filler arc, every film, and yes \u2014 GT. This path is a massive commitment but covers every corner of the franchise.",
-        "hours": "~900 hours",
+        "subtitle": "Path 3 \u2014 Everything",
+        "description": "Full DBZ with filler, all 23 films, GT, every special and OVA. For the dedicated fan who wants the full picture, no exceptions.",
+        "hours": "\u23f1 ~900+ hours \u00b7 Completionists only",
         "includes": "DB + DBZ (with fillers) + DBS + GT + Daima + all 23 films"
       }
     ],
@@ -403,13 +440,15 @@
     },
     "ui": {
       "quick_answer_label": "\u26a1 Quick Answer",
-      "timeline_heading": "Complete Watch Order Timeline",
+      "why_confusing_label": "\ud83e\udd14 Why Dragon Ball Is Confusing",
+      "compare_verdict_label": "\u2705 Our Verdict",
+      "timeline_heading": "Complete Dragon Ball Timeline",
       "films_heading": "Complete Films Guide",
       "fillers_heading": "Filler Guide",
       "faq_heading": "Frequently Asked Questions",
-      "streaming_heading": "Where to Watch",
+      "streaming_heading": "Where to Watch Dragon Ball",
       "manga_heading": "Continue with the Manga",
-      "paths_heading": "Choose Your Path",
+      "paths_heading": "Choose Your Watch Path",
       "recommended_label": "RECOMMENDED",
       "col_num": "#",
       "col_title": "Title",
@@ -460,33 +499,70 @@
     },
     "intro": "Dragon Ball est l'une des franchises les plus tentaculaires de l'histoire de l'anime. Six s\u00e9ries, 23 films, des timelines non-canon, et l'\u00e9ternelle question \u2014 <em>GT ou pas GT ?</em> Ce guide d\u00e9m\u00eale la confusion avec trois parcours clairs, le placement exact des films et une liste compl\u00e8te des fillers.",
     "quick_answer": "Regardez dans cet ordre : <strong>Dragon Ball \u2192 Dragon Ball Z (ou Kai) \u2192 Dragon Ball Super \u2192 Dragon Ball Daima</strong>. Ins\u00e9rez <strong>Super: Broly</strong> juste apr\u00e8s DBS \u00e9pisode 131, puis <strong>Super Hero</strong> apr\u00e8s. Ignorez <strong>GT</strong> sauf si vous voulez tout voir \u2014 c'est non-canon et se d\u00e9roule dans une timeline alternative. Pour les films, seuls <strong>Battle of Gods</strong>, <strong>Resurrection F</strong>, <strong>Broly</strong> et <strong>Super Hero</strong> comptent vraiment.",
+    "why_confusing": {
+      "content": "Contrairement \u00e0 la plupart des animes, Dragon Ball a \u00e9t\u00e9 remake, retconn\u00e9 et \u00e9tendu pendant plus de 40 ans. Voici ce qui pr\u00eate \u00e0 confusion :<ul><li><strong>DBZ vs Dragon Ball Kai</strong> \u2014 Kai est une version remast\u00e9ris\u00e9e et all\u00e9g\u00e9e de DBZ. M\u00eame histoire, ~45% d'\u00e9pisodes en moins, presque aucun filler. Pas besoin de regarder les deux.</li><li><strong>Dragon Ball GT</strong> \u2014 Non \u00e9crit par Toriyama. G\u00e9n\u00e9ralement mal aim\u00e9 des fans. Statut canon : officiellement non-canon depuis que Super a \u00e9t\u00e9 cr\u00e9\u00e9 comme la vraie suite.</li><li><strong>Les films</strong> \u2014 Sur 23 films, seuls 4 sont canon. Les autres sont des histoires autonomes amusantes qui n'affectent pas l'intrigue principale.</li><li><strong>Dragon Ball Super: Broly</strong> \u2014 Ce film remplace de mani\u00e8re canonique les deux films Broly originaux. Si vous les avez vus, vous pouvez quand m\u00eame regarder celui-ci.</li></ul>"
+    },
+    "dbz_vs_kai": {
+      "heading": "Dragon Ball Z vs Kai : Lequel regarder ?",
+      "intro": "C'est l'une des questions les plus fr\u00e9quentes des nouveaux spectateurs. Voici la comparaison honn\u00eate :",
+      "cards": [
+        {
+          "title": "Dragon Ball Z",
+          "subtitle": "(1989\u20131996)",
+          "color_class": "compare-card--orange",
+          "stats": [
+            {"label": "\u00c9pisodes", "value": "291"},
+            {"label": "\u00c9pisodes filler", "value": "~170 (58%)"},
+            {"label": "Qualit\u00e9 d'animation", "value": "Cel originale"},
+            {"label": "Doublage classique", "value": "\u2705 Oui"},
+            {"label": "Temps de visionnage", "value": "~97 heures"},
+            {"label": "Id\u00e9al pour", "value": "Compl\u00e9tistes"}
+          ]
+        },
+        {
+          "title": "Dragon Ball Kai",
+          "subtitle": "(2009\u20132015)",
+          "color_class": "compare-card--green",
+          "recommended": true,
+          "stats": [
+            {"label": "\u00c9pisodes", "value": "159"},
+            {"label": "\u00c9pisodes filler", "value": "~5 (3%)"},
+            {"label": "Qualit\u00e9 d'animation", "value": "HD remast\u00e9ris\u00e9e"},
+            {"label": "Doublage classique", "value": "\u26a0\ufe0f Nouveau doublage uniquement"},
+            {"label": "Temps de visionnage", "value": "~53 heures"},
+            {"label": "Id\u00e9al pour", "value": "La plupart des spectateurs"}
+          ]
+        }
+      ],
+      "verdict": "Pour 90% des spectateurs, <strong>Dragon Ball Kai est le meilleur choix</strong>. Il raconte exactement la m\u00eame histoire en 45% moins de temps en supprimant le filler et le remplissage qui ralentissent DBZ. La seule raison de choisir DBZ est si vous voulez sp\u00e9cifiquement le style d'animation original ou la bande-son classique de Faulconer (doublage occidental). Vous pouvez toujours revenir au DBZ complet plus tard."
+    },
     "paths": [
       {
         "id": 1,
-        "icon": "\u26a1",
+        "icon": "\ud83c\udfaf",
         "name": "L'Essentialiste",
-        "subtitle": "Canon uniquement, aucun filler",
-        "description": "Le parcours le plus direct. Seulement les s\u00e9ries canon et les 4 films canon. Vous sautez GT et \u00e9vitez tous les fillers de Z.",
-        "hours": "~350 heures",
+        "subtitle": "Parcours 1 \u2014 Canon uniquement",
+        "description": "L'histoire principale sans d\u00e9tours. DBZ remplac\u00e9 par Kai. Pas de GT, pas de films non-canon. Id\u00e9al pour les nouveaux qui veulent l'exp\u00e9rience la plus pure.",
+        "hours": "\u23f1 ~350 heures \u00b7 Recommand\u00e9 pour les d\u00e9butants",
         "includes": "DB + Kai + DBS + Daima + 4 films canon"
       },
       {
         "id": 2,
-        "icon": "\ud83c\udfaf",
+        "icon": "\u26a1",
         "name": "Le Standard",
-        "subtitle": "Canon + meilleurs films \u2014 RECOMMAND\u00c9",
-        "description": "Le meilleur \u00e9quilibre. L'exp\u00e9rience canon compl\u00e8te plus les films non-canon les plus appr\u00e9ci\u00e9s. C'est ce qu'on recommande pour la plupart des spectateurs.",
-        "hours": "~360 heures",
+        "subtitle": "Parcours 2 \u2014 Canon + Meilleurs Films",
+        "description": "Le parcours canon ci-dessus, plus les 4 films canon et quelques films non-canon appr\u00e9ci\u00e9s. L'exp\u00e9rience que la plupart des fans recommanderaient.",
+        "hours": "\u23f1 ~360 heures \u00b7 Recommand\u00e9 pour la plupart des spectateurs",
         "includes": "DB + Kai + DBS + Daima + films canon + films non-canon s\u00e9lectionn\u00e9s",
         "recommended": true
       },
       {
         "id": 3,
-        "icon": "\ud83c\udfc6",
+        "icon": "\ud83d\udd25",
         "name": "Le Compl\u00e9tiste",
-        "subtitle": "Tout, y compris GT et les fillers",
-        "description": "Vous voulez tout voir. Chaque \u00e9pisode, chaque filler, chaque film, et oui \u2014 GT. Ce parcours est un engagement massif mais couvre chaque recoin de la franchise.",
-        "hours": "~900 heures",
+        "subtitle": "Parcours 3 \u2014 Tout",
+        "description": "DBZ complet avec fillers, les 23 films, GT, chaque sp\u00e9cial et OVA. Pour le fan d\u00e9vou\u00e9 qui veut le tableau complet, sans exception.",
+        "hours": "\u23f1 ~900+ heures \u00b7 Compl\u00e9tistes uniquement",
         "includes": "DB + DBZ (avec fillers) + DBS + GT + Daima + les 23 films"
       }
     ],
@@ -849,13 +925,15 @@
     },
     "ui": {
       "quick_answer_label": "\u26a1 R\u00e9ponse Rapide",
-      "timeline_heading": "Chronologie Compl\u00e8te de Visionnage",
+      "why_confusing_label": "\ud83e\udd14 Pourquoi Dragon Ball est confus",
+      "compare_verdict_label": "\u2705 Notre Verdict",
+      "timeline_heading": "Chronologie Compl\u00e8te de Dragon Ball",
       "films_heading": "Guide Complet des Films",
       "fillers_heading": "Guide des Fillers",
       "faq_heading": "Questions Fr\u00e9quentes",
-      "streaming_heading": "O\u00f9 Regarder",
+      "streaming_heading": "O\u00f9 Regarder Dragon Ball",
       "manga_heading": "Continuer avec le Manga",
-      "paths_heading": "Choisissez Votre Parcours",
+      "paths_heading": "Choisissez Votre Parcours de Visionnage",
       "recommended_label": "RECOMMAND\u00c9",
       "col_num": "#",
       "col_title": "Titre",

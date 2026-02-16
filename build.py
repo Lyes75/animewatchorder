@@ -183,6 +183,50 @@ def build_faq_html(data):
     return "\n".join(items)
 
 
+def build_why_confusing_html(data, ui):
+    """Generate HTML for the 'Why Dragon Ball Is Confusing' info box."""
+    wc = data["why_confusing"]
+    return f"""      <div class="info-box">
+        <div class="info-box__label">{ui['why_confusing_label']}</div>
+        <div class="info-box__text">{wc['content']}</div>
+      </div>"""
+
+
+def build_compare_html(data, ui):
+    """Generate HTML for the DBZ vs Kai comparison grid + verdict."""
+    compare = data["dbz_vs_kai"]
+    cards = []
+    for card in compare["cards"]:
+        rec_badge = ""
+        if card.get("recommended"):
+            rec_badge = f'<span class="winner-tag">{ui["recommended_label"]}</span>'
+
+        stats_html = ""
+        for stat in card["stats"]:
+            stats_html += f"""          <div class="compare-card__stat">
+            <span class="compare-card__label">{stat['label']}</span>
+            <span class="compare-card__value">{stat['value']}</span>
+          </div>\n"""
+
+        card_html = f"""      <div class="compare-card {card.get('color_class', '')}">
+        {rec_badge}
+        <div class="compare-card__title">{card['title']}</div>
+        <div class="compare-card__subtitle">{card['subtitle']}</div>
+{stats_html}      </div>"""
+        cards.append(card_html)
+
+    grid = f"""      <div class="compare-grid">
+{chr(10).join(cards)}
+      </div>"""
+
+    verdict = f"""      <div class="verdict-box">
+        <div class="verdict-box__label">{ui.get('compare_verdict_label', 'Our Verdict')}</div>
+        <p class="verdict-box__text">{compare['verdict']}</p>
+      </div>"""
+
+    return grid + "\n" + verdict
+
+
 def build_streaming_html(data, ui):
     """Generate HTML for streaming platform cards."""
     cards = []
@@ -257,10 +301,10 @@ def generate_series_page(slug, data, lang):
     lang_switch_url = f"{other_prefix}/{slug}/"
 
     # Build all sections
-    timeline_rows = build_timeline_rows(data, ui)
-    films_rows = build_films_rows(data, ui)
-    fillers_rows = build_fillers_rows(data, ui)
+    why_confusing_html = build_why_confusing_html(data, ui)
     paths_html = build_paths_html(data, ui)
+    compare_html = build_compare_html(data, ui)
+    timeline_rows = build_timeline_rows(data, ui)
     faq_html = build_faq_html(data)
     streaming_html = build_streaming_html(data, ui)
     howto_schema = build_schema_json(data, slug, lang)
@@ -339,7 +383,12 @@ def generate_series_page(slug, data, lang):
       </div>
     </section>
 
-    <!-- 3. Watch Paths -->
+    <!-- 3. Why Dragon Ball Is Confusing -->
+    <section class="section" id="why-confusing">
+{why_confusing_html}
+    </section>
+
+    <!-- 4. Watch Paths -->
     <section class="section" id="paths">
       <h2>{ui['paths_heading']}</h2>
       <div class="paths-grid">
@@ -347,7 +396,14 @@ def generate_series_page(slug, data, lang):
       </div>
     </section>
 
-    <!-- 4. Main Timeline Table -->
+    <!-- 5. DBZ vs Kai Comparison -->
+    <section class="section" id="compare">
+      <h2>{data['dbz_vs_kai']['heading']}</h2>
+      <p class="section__intro">{data['dbz_vs_kai']['intro']}</p>
+{compare_html}
+    </section>
+
+    <!-- 6. Complete Dragon Ball Timeline -->
     <section class="section" id="timeline">
       <h2>{ui['timeline_heading']}</h2>
       <div class="table-wrapper">
@@ -365,47 +421,6 @@ def generate_series_page(slug, data, lang):
           </thead>
           <tbody>
 {timeline_rows}
-          </tbody>
-        </table>
-      </div>
-    </section>
-
-    <!-- 5. Films Section -->
-    <section class="section" id="films">
-      <h2>{ui['films_heading']}</h2>
-      <div class="table-wrapper">
-        <table class="films-table">
-          <thead>
-            <tr>
-              <th>{ui['col_title']}</th>
-              <th>{ui['film_year']}</th>
-              <th>{ui['film_canon_status']}</th>
-              <th>{ui['film_placement']}</th>
-              <th>{ui['film_verdict']}</th>
-            </tr>
-          </thead>
-          <tbody>
-{films_rows}
-          </tbody>
-        </table>
-      </div>
-    </section>
-
-    <!-- 6. Fillers Section -->
-    <section class="section" id="fillers">
-      <h2>{ui['fillers_heading']}</h2>
-      <div class="table-wrapper">
-        <table class="fillers-table">
-          <thead>
-            <tr>
-              <th>{ui['filler_arc']}</th>
-              <th>{ui['filler_episodes']}</th>
-              <th>{ui['filler_verdict']}</th>
-              <th>{ui['filler_notes']}</th>
-            </tr>
-          </thead>
-          <tbody>
-{fillers_rows}
           </tbody>
         </table>
       </div>
