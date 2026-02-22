@@ -1,0 +1,925 @@
+{
+  "slug": "naruto",
+  "en": {
+    "title": "Naruto",
+    "emoji": "🍥",
+    "lang": "en",
+    "meta_title": "Naruto Watch Order: Complete Guide 2026 (Naruto + Shippuden)",
+    "meta_description": "The complete Naruto watch order. Naruto (220 ep) → Shippuden (500 ep) → 11 films. 3 watch paths with filler guide. Updated February 2026.",
+    "category_tag": "Shōnen · 2 Series · 11 Films",
+    "hero": {
+      "series": 2,
+      "films": 11,
+      "hours": 340,
+      "updated": "February 2026"
+    },
+    "intro": "Naruto is one of the Big Three shōnen anime alongside One Piece and Bleach. With 720 episodes across two series, 11 films, and a notoriously high filler count (41% of all episodes), knowing what to skip makes a huge difference. This guide gives you three clear paths through the Hidden Leaf Village.",
+    "quick_answer": "Watch <strong>Naruto</strong> first (220 episodes, skip most filler), then <strong>Naruto Shippuden</strong> (500 episodes). Films are mostly non-canon except two: watch <strong>The Last: Naruto the Movie</strong> after Shippuden episode 493, then <strong>Boruto: Naruto the Movie</strong> at the very end. For the best experience, skip filler arcs — they're well-documented and don't affect the main story.",
+    "why_confusing": {
+      "content": "Unlike many anime, Naruto has an unusually high filler count spread across both series. Here's what trips people up:<ul><li><strong>Filler overload</strong> — 41% of Naruto and 44% of Shippuden are filler episodes. That's 295 episodes you can skip without missing the story.</li><li><strong>Films vs canon</strong> — Out of 11 films, only 2 are canon: The Last and Boruto. The rest are fun standalone adventures.</li><li><strong>Boruto continuation</strong> — After Shippuden, the story continues in Boruto: Naruto Next Generations (separate series, not covered in this guide).</li><li><strong>The Last placement</strong> — This film is critical. It takes place between Shippuden episodes 493-494 and shows Naruto and Hinata's relationship development.</li></ul>"
+    },
+    "dbz_vs_kai": {
+      "heading": "Naruto vs Naruto Shippuden: What's the Difference?",
+      "intro": "These are two separate series, not versions of the same show. Here's the breakdown:",
+      "cards": [
+        {
+          "title": "Naruto (Part 1)",
+          "subtitle": "(2002–2007)",
+          "color_class": "compare-card--orange",
+          "stats": [
+            {"label": "Episodes", "value": "220"},
+            {"label": "Filler episodes", "value": "~90 (41%)"},
+            {"label": "Time period", "value": "Naruto as genin (ages 12–13)"},
+            {"label": "Watch time", "value": "~73 hours"},
+            {"label": "Focus", "value": "Team 7, Chunin Exams, early villains"},
+            {"label": "Best for", "value": "Character origins"}
+          ]
+        },
+        {
+          "title": "Naruto Shippuden",
+          "subtitle": "(2007–2017)",
+          "color_class": "compare-card--green",
+          "recommended": true,
+          "stats": [
+            {"label": "Episodes", "value": "500"},
+            {"label": "Filler episodes", "value": "~205 (44%)"},
+            {"label": "Time period", "value": "Naruto returns after training (ages 15–17)"},
+            {"label": "Watch time", "value": "~167 hours"},
+            {"label": "Focus", "value": "Akatsuki, Fourth Shinobi War, finale"},
+            {"label": "Best for", "value": "Main plot and conclusion"}
+          ]
+        }
+      ],
+      "verdict": "Both series are required viewing — Shippuden is the direct continuation of Naruto. However, you can drastically reduce watch time by skipping filler. Naruto Part 1 filler can mostly be skipped, while Shippuden has a few filler arcs worth keeping (like Kakashi's Anbu arc and Itachi's story)."
+    },
+    "paths": [
+      {
+        "id": 1,
+        "icon": "🎯",
+        "name": "The Essentialist",
+        "subtitle": "Path 1 — Canon Only",
+        "description": "The core story without detours. Skip all 295 filler episodes. Best for viewers who want the essential narrative without padding.",
+        "hours": "⏱ ~220 hours · Recommended for first-timers",
+        "includes": "Naruto (canon) + Shippuden (canon) + 2 canon films"
+      },
+      {
+        "id": 2,
+        "icon": "⚡",
+        "name": "The Standard",
+        "subtitle": "Path 2 — Canon + Best Arcs",
+        "description": "The canon path plus a few well-regarded filler arcs and the best non-canon films. The experience most fans recommend.",
+        "hours": "⏱ ~240 hours · Recommended for most viewers",
+        "includes": "Naruto + Shippuden (keep good fillers) + 2 canon films + 2 best films",
+        "recommended": true
+      },
+      {
+        "id": 3,
+        "icon": "🔥",
+        "name": "The Completionist",
+        "subtitle": "Path 3 — Everything",
+        "description": "Every episode, every film, every OVA. For dedicated fans who want to experience everything the Naruto universe offers.",
+        "hours": "⏱ ~340 hours · Completionists only",
+        "includes": "Naruto + Shippuden (all eps) + all 11 films + OVAs"
+      }
+    ],
+    "timeline": [
+      {
+        "num": 1,
+        "title": "Naruto (Part 1)",
+        "subtitle": "Team 7 formation and early adventures",
+        "type": "mixed",
+        "episodes": "220 episodes",
+        "when": "Start here",
+        "path": "All paths",
+        "verdict": "must_watch",
+        "watch_url": "#",
+        "notes": "The original series. Establishes all core characters, the ninja world, and Naruto's dream to become Hokage."
+      },
+      {
+        "num": 2,
+        "title": "Ninja Clash in the Land of Snow",
+        "subtitle": "Film 1 (2004)",
+        "type": "non_canon",
+        "episodes": "1h 22min",
+        "when": "After Naruto ep. 101",
+        "path": "Path 2 & 3",
+        "verdict": "watchable",
+        "watch_url": "#",
+        "notes": "Team 7 on a mission protecting a princess. Fun standalone adventure."
+      },
+      {
+        "num": 3,
+        "title": "Legend of the Stone of Gelel",
+        "subtitle": "Film 2 (2005)",
+        "type": "non_canon",
+        "episodes": "1h 37min",
+        "when": "After Naruto ep. 160",
+        "path": "Path 3 only",
+        "verdict": "skip",
+        "watch_url": "#",
+        "notes": "Non-canon standalone. Safe to skip entirely."
+      },
+      {
+        "num": 4,
+        "title": "Guardians of the Crescent Moon Kingdom",
+        "subtitle": "Film 3 (2006)",
+        "type": "non_canon",
+        "episodes": "1h 35min",
+        "when": "After Naruto ep. 196",
+        "path": "Path 3 only",
+        "verdict": "skip",
+        "watch_url": "#",
+        "notes": "Non-canon standalone. Safe to skip entirely."
+      },
+      {
+        "num": 5,
+        "title": "Naruto Shippuden",
+        "subtitle": "The main story and Fourth Shinobi War",
+        "type": "mixed",
+        "episodes": "500 episodes",
+        "when": "After Naruto Part 1",
+        "path": "All paths",
+        "verdict": "must_watch",
+        "watch_url": "#",
+        "notes": "The direct continuation. Akatsuki, Pain's Assault, the Fourth Shinobi War, and Naruto's final confrontation with Sasuke."
+      },
+      {
+        "num": 6,
+        "title": "Shippuden: The Movie",
+        "subtitle": "Film 4 (2007)",
+        "type": "non_canon",
+        "episodes": "1h 34min",
+        "when": "After Shippuden ep. 32",
+        "path": "Path 3 only",
+        "verdict": "skip",
+        "watch_url": "#",
+        "notes": "Non-canon standalone. Safe to skip."
+      },
+      {
+        "num": 7,
+        "title": "Shippuden: Bonds",
+        "subtitle": "Film 5 (2008)",
+        "type": "non_canon",
+        "episodes": "1h 30min",
+        "when": "After Shippuden ep. 71",
+        "path": "Path 2 & 3",
+        "verdict": "watchable",
+        "watch_url": "#",
+        "notes": "One of the better non-canon films. Features Sasuke and a Sky ninja invasion."
+      },
+      {
+        "num": 8,
+        "title": "Shippuden: The Will of Fire",
+        "subtitle": "Film 6 (2009)",
+        "type": "non_canon",
+        "episodes": "1h 35min",
+        "when": "After Shippuden ep. 121",
+        "path": "Path 3 only",
+        "verdict": "skip",
+        "watch_url": "#",
+        "notes": "Non-canon standalone. Safe to skip."
+      },
+      {
+        "num": 9,
+        "title": "Shippuden: The Lost Tower",
+        "subtitle": "Film 7 (2010)",
+        "type": "non_canon",
+        "episodes": "1h 25min",
+        "when": "After Shippuden ep. 143",
+        "path": "Path 3 only",
+        "verdict": "skip",
+        "watch_url": "#",
+        "notes": "Non-canon standalone. Safe to skip."
+      },
+      {
+        "num": 10,
+        "title": "Shippuden: Blood Prison",
+        "subtitle": "Film 8 (2011)",
+        "type": "non_canon",
+        "episodes": "1h 48min",
+        "when": "After Shippuden ep. 196",
+        "path": "Path 3 only",
+        "verdict": "skip",
+        "watch_url": "#",
+        "notes": "Non-canon standalone. Safe to skip."
+      },
+      {
+        "num": 11,
+        "title": "Road to Ninja",
+        "subtitle": "Film 9 (2012)",
+        "type": "non_canon",
+        "episodes": "1h 50min",
+        "when": "After Shippuden ep. 251",
+        "path": "Path 2 & 3",
+        "verdict": "watchable",
+        "watch_url": "#",
+        "notes": "Fan-favorite non-canon film exploring an alternate reality. Worth watching for Naruto fans."
+      },
+      {
+        "num": 12,
+        "title": "The Last: Naruto the Movie",
+        "subtitle": "CRITICAL — Naruto & Hinata's relationship",
+        "type": "film_canon",
+        "episodes": "1h 52min",
+        "when": "After Shippuden ep. 493",
+        "path": "All paths",
+        "verdict": "must_watch",
+        "watch_url": "#",
+        "notes": "Canon film that takes place between Shippuden episodes 493-494. Essential for Naruto and Hinata's relationship arc.",
+        "recommended": true
+      },
+      {
+        "num": 13,
+        "title": "Boruto: Naruto the Movie",
+        "subtitle": "The next generation begins",
+        "type": "film_canon",
+        "episodes": "1h 35min",
+        "when": "After Shippuden end",
+        "path": "All paths",
+        "verdict": "must_watch",
+        "watch_url": "#",
+        "notes": "Canon epilogue film following Naruto's son Boruto. Watch after completing all of Shippuden."
+      }
+    ],
+    "films": [
+      {
+        "title": "Ninja Clash in the Land of Snow",
+        "year": 2004,
+        "canon": false,
+        "placement": "After Naruto ep. 101",
+        "verdict": "watchable"
+      },
+      {
+        "title": "Legend of the Stone of Gelel",
+        "year": 2005,
+        "canon": false,
+        "placement": "After Naruto ep. 160",
+        "verdict": "skip"
+      },
+      {
+        "title": "Guardians of the Crescent Moon Kingdom",
+        "year": 2006,
+        "canon": false,
+        "placement": "After Naruto ep. 196",
+        "verdict": "skip"
+      },
+      {
+        "title": "Shippuden: The Movie",
+        "year": 2007,
+        "canon": false,
+        "placement": "After Shippuden ep. 32",
+        "verdict": "skip"
+      },
+      {
+        "title": "Shippuden: Bonds",
+        "year": 2008,
+        "canon": false,
+        "placement": "After Shippuden ep. 71",
+        "verdict": "watchable"
+      },
+      {
+        "title": "Shippuden: The Will of Fire",
+        "year": 2009,
+        "canon": false,
+        "placement": "After Shippuden ep. 121",
+        "verdict": "skip"
+      },
+      {
+        "title": "Shippuden: The Lost Tower",
+        "year": 2010,
+        "canon": false,
+        "placement": "After Shippuden ep. 143",
+        "verdict": "skip"
+      },
+      {
+        "title": "Shippuden: Blood Prison",
+        "year": 2011,
+        "canon": false,
+        "placement": "After Shippuden ep. 196",
+        "verdict": "skip"
+      },
+      {
+        "title": "Road to Ninja",
+        "year": 2012,
+        "canon": false,
+        "placement": "After Shippuden ep. 251",
+        "verdict": "watchable"
+      },
+      {
+        "title": "The Last: Naruto the Movie",
+        "year": 2014,
+        "canon": true,
+        "placement": "After Shippuden ep. 493",
+        "verdict": "must_watch"
+      },
+      {
+        "title": "Boruto: Naruto the Movie",
+        "year": 2015,
+        "canon": true,
+        "placement": "After Shippuden end",
+        "verdict": "must_watch"
+      }
+    ],
+    "fillers": [
+      {
+        "arc": "Land of Tea Escort Mission",
+        "episodes": "102–106",
+        "verdict": "skip",
+        "notes": "Early Part 1 filler. Safe to skip."
+      },
+      {
+        "arc": "Land of Rice Fields Investigation",
+        "episodes": "136–141",
+        "verdict": "skip",
+        "notes": "Filler between Tsunade and Sasuke retrieval arcs."
+      },
+      {
+        "arc": "Mizuki Strikes Back",
+        "episodes": "142–147",
+        "verdict": "skip",
+        "notes": "Filler arc. Safe to skip entirely."
+      },
+      {
+        "arc": "Kakashi Anbu Arc (Shippuden)",
+        "episodes": "349–361",
+        "verdict": "must_watch",
+        "notes": "One of the best filler arcs — Kakashi's backstory in the Anbu. Worth watching."
+      },
+      {
+        "arc": "Itachi's Story (Shippuden)",
+        "episodes": "451–458",
+        "verdict": "must_watch",
+        "notes": "Essential backstory for Itachi Uchiha. Highly recommended even for canon-only viewers."
+      },
+      {
+        "arc": "Power Arc (Shippuden)",
+        "episodes": "290–295",
+        "verdict": "skip",
+        "notes": "Filler arc. Safe to skip."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Should I skip Naruto filler?",
+        "answer": "Yes, for the most part. 295 out of 720 episodes are filler. The main story is perfectly coherent without them. However, a few filler arcs are well-regarded: Kakashi's Anbu arc (Shippuden 349-361) and Itachi's story (Shippuden 451-458). Everything else can be safely skipped."
+      },
+      {
+        "question": "Can I start with Naruto Shippuden?",
+        "answer": "Not recommended. Shippuden assumes you know all the characters, their relationships, and the world-building from Part 1. You'd be lost on character motivations and major plot points. Start with Naruto Part 1 — you can skip filler to speed through it."
+      },
+      {
+        "question": "Which Naruto films are worth watching?",
+        "answer": "Only two films are canon: The Last (after Shippuden ep. 493) and Boruto (after Shippuden ends). Both are essential. Among non-canon films, Ninja Clash in the Land of Snow, Bonds, and Road to Ninja are the most entertaining. The rest are skippable."
+      },
+      {
+        "question": "Where can I watch Naruto?",
+        "answer": "Crunchyroll has the complete Naruto and Shippuden series, plus most films. Netflix carries both series in select regions. Hulu also has the full series. For films, check Crunchyroll first, then digital rental platforms."
+      },
+      {
+        "question": "How long does it take to watch all of Naruto?",
+        "answer": "Canon only (skip all filler): roughly 220 hours. Standard experience (skip most filler, keep good arcs + canon films): around 240 hours. Completionist path (everything): 340+ hours. Most fans complete the canon-only path in 3-4 months watching 2-3 episodes daily."
+      },
+      {
+        "question": "Do I need to watch Boruto after Naruto?",
+        "answer": "Not required. Naruto's story concludes satisfyingly at the end of Shippuden. Boruto is a sequel series focused on the next generation. Watch Boruto: Naruto the Movie first — if you enjoy it, the Boruto series might be for you. If not, you're not missing Naruto's conclusion."
+      }
+    ],
+    "streaming": [
+      {
+        "platform": "Crunchyroll",
+        "icon": "🟠",
+        "available": ["Naruto", "Naruto Shippuden", "Most films", "Boruto (if continuing)"],
+        "cta": "Start Watching on Crunchyroll — 14 Days Free",
+        "url": "https://www.crunchyroll.com/?utm_source=animewatchorder&utm_medium=affiliate"
+      },
+      {
+        "platform": "Netflix",
+        "icon": "🔴",
+        "available": ["Naruto (select regions)", "Naruto Shippuden (select regions)"],
+        "cta": "Check Availability on Netflix",
+        "url": "https://www.netflix.com/"
+      },
+      {
+        "platform": "Hulu",
+        "icon": "🟢",
+        "available": ["Naruto", "Naruto Shippuden", "Select films"],
+        "cta": "Watch on Hulu",
+        "url": "https://www.hulu.com/"
+      }
+    ],
+    "manga": {
+      "title": "Want to go further? Continue with the manga.",
+      "description": "The Naruto manga is complete at 700 chapters, ending at the same point as the anime. However, the sequel series Boruto: Naruto Next Generations continues the story with Naruto's son. The Boruto manga is ongoing and often ahead of the anime, making it a great way to continue if you loved Naruto's world.",
+      "link_text": "Naruto Vol. 1 on Amazon",
+      "link_url": "https://www.amazon.com/dp/1569319006?tag=YOURAFFID"
+    },
+    "ui": {
+      "quick_answer_label": "⚡ Quick Answer",
+      "why_confusing_label": "🤔 Why Naruto Is Confusing",
+      "compare_verdict_label": "✅ Our Verdict",
+      "timeline_heading": "Complete Naruto Timeline",
+      "films_heading": "Complete Films Guide",
+      "fillers_heading": "Filler Guide",
+      "faq_heading": "Frequently Asked Questions",
+      "streaming_heading": "Where to Watch Naruto",
+      "manga_heading": "Continue with the Manga",
+      "paths_heading": "Choose Your Watch Path",
+      "recommended_label": "RECOMMENDED",
+      "col_num": "#",
+      "col_title": "Title",
+      "col_type": "Type",
+      "col_episodes": "Episodes / Length",
+      "col_when": "When to Watch",
+      "col_path": "Path",
+      "col_verdict": "Verdict",
+      "col_watch": "Watch Now",
+      "must_watch": "✦ Must Watch",
+      "watchable": "✧ Watchable",
+      "skip": "◌ Skip",
+      "canon": "Canon",
+      "mixed": "Canon + Filler",
+      "film_canon": "Film · Canon",
+      "non_canon": "Non-Canon",
+      "filler": "Filler",
+      "film_year": "Year",
+      "film_canon_status": "Canon?",
+      "film_placement": "Placement",
+      "film_verdict": "Verdict",
+      "filler_arc": "Arc",
+      "filler_episodes": "Episodes",
+      "filler_verdict": "Verdict",
+      "filler_notes": "Notes",
+      "yes": "Yes",
+      "no": "No",
+      "home_title": "Anime Watch Order Guides",
+      "home_subtitle": "Clear, structured watch order guides for the most complex anime franchises.",
+      "home_cta": "View Guide",
+      "nav_home": "Home",
+      "lang_switch": "FR",
+      "lang_switch_url": "/fr/naruto/",
+      "footer_text": "AnimeWatchOrder.com — Independent anime watch order guides. Not affiliated with any streaming platform.",
+      "footer_affiliate": "This site contains affiliate links. We may earn a commission at no extra cost to you."
+    }
+  },
+  "fr": {
+    "title": "Naruto",
+    "emoji": "🍥",
+    "lang": "fr",
+    "meta_title": "Naruto Ordre de Visionnage : Guide Complet 2026 (Naruto + Shippuden)",
+    "meta_description": "L'ordre complet de Naruto. Naruto (220 ép) → Shippuden (500 ép) → 11 films. 3 parcours avec guide des fillers. Février 2026.",
+    "category_tag": "Shōnen · 2 Séries · 11 Films",
+    "hero": {
+      "series": 2,
+      "films": 11,
+      "hours": 340,
+      "updated": "Février 2026"
+    },
+    "intro": "Naruto fait partie des Big Three du shōnen avec One Piece et Bleach. Avec 720 épisodes sur deux séries, 11 films et un taux de filler notoire (41% des épisodes), savoir quoi ignorer fait une énorme différence. Ce guide vous propose trois parcours clairs à travers le Village de la Feuille.",
+    "quick_answer": "Regardez <strong>Naruto</strong> d'abord (220 épisodes, ignorez la plupart des fillers), puis <strong>Naruto Shippuden</strong> (500 épisodes). Les films sont majoritairement non-canon sauf deux : regardez <strong>The Last : Naruto le Film</strong> après Shippuden épisode 493, puis <strong>Boruto : Naruto le Film</strong> à la fin. Pour la meilleure expérience, ignorez les arcs filler — ils sont bien documentés et n'affectent pas l'histoire principale.",
+    "why_confusing": {
+      "content": "Contrairement à beaucoup d'anime, Naruto a un taux de filler exceptionnellement élevé réparti sur les deux séries. Voici ce qui pose problème :<ul><li><strong>Surcharge de fillers</strong> — 41% de Naruto et 44% de Shippuden sont des épisodes filler. Soit 295 épisodes que vous pouvez ignorer sans perdre le fil de l'histoire.</li><li><strong>Films vs canon</strong> — Sur 11 films, seuls 2 sont canon : The Last et Boruto. Les autres sont des aventures standalone amusantes.</li><li><strong>Suite Boruto</strong> — Après Shippuden, l'histoire continue dans Boruto: Naruto Next Generations (série séparée, non couverte dans ce guide).</li><li><strong>Placement de The Last</strong> — Ce film est crucial. Il se déroule entre les épisodes 493-494 de Shippuden et montre le développement de la relation Naruto-Hinata.</li></ul>"
+    },
+    "dbz_vs_kai": {
+      "heading": "Naruto vs Naruto Shippuden : Quelle Différence ?",
+      "intro": "Ce sont deux séries distinctes, pas deux versions du même show. Voici le détail :",
+      "cards": [
+        {
+          "title": "Naruto (Partie 1)",
+          "subtitle": "(2002–2007)",
+          "color_class": "compare-card--orange",
+          "stats": [
+            {"label": "Épisodes", "value": "220"},
+            {"label": "Épisodes filler", "value": "~90 (41%)"},
+            {"label": "Période", "value": "Naruto genin (12–13 ans)"},
+            {"label": "Temps de visionnage", "value": "~73 heures"},
+            {"label": "Focus", "value": "Équipe 7, Examens Chunin, premiers ennemis"},
+            {"label": "Idéal pour", "value": "Origines des personnages"}
+          ]
+        },
+        {
+          "title": "Naruto Shippuden",
+          "subtitle": "(2007–2017)",
+          "color_class": "compare-card--green",
+          "recommended": true,
+          "stats": [
+            {"label": "Épisodes", "value": "500"},
+            {"label": "Épisodes filler", "value": "~205 (44%)"},
+            {"label": "Période", "value": "Naruto revient après l'entraînement (15–17 ans)"},
+            {"label": "Temps de visionnage", "value": "~167 heures"},
+            {"label": "Focus", "value": "Akatsuki, Quatrième Guerre Shinobi, finale"},
+            {"label": "Idéal pour", "value": "Intrigue principale et conclusion"}
+          ]
+        }
+      ],
+      "verdict": "Les deux séries sont incontournables — Shippuden est la suite directe de Naruto. Cependant, vous pouvez réduire considérablement le temps de visionnage en sautant les fillers. Les fillers de la Partie 1 peuvent être ignorés en grande partie, tandis que Shippuden possède quelques arcs filler valant la peine (comme l'arc Anbu de Kakashi et l'histoire d'Itachi)."
+    },
+    "paths": [
+      {
+        "id": 1,
+        "icon": "🎯",
+        "name": "L'Essentialiste",
+        "subtitle": "Parcours 1 — Canon uniquement",
+        "description": "L'histoire principale sans détours. Ignorez les 295 épisodes filler. Idéal pour ceux qui veulent le récit essentiel sans remplissage.",
+        "hours": "⏱ ~220 heures · Recommandé pour les débutants",
+        "includes": "Naruto (canon) + Shippuden (canon) + 2 films canon"
+      },
+      {
+        "id": 2,
+        "icon": "⚡",
+        "name": "Le Standard",
+        "subtitle": "Parcours 2 — Canon + Meilleurs Arcs",
+        "description": "Le parcours canon plus quelques arcs filler appréciés et les meilleurs films non-canon. L'expérience que la plupart des fans recommandent.",
+        "hours": "⏱ ~240 heures · Recommandé pour la plupart des spectateurs",
+        "includes": "Naruto + Shippuden (bons fillers gardés) + 2 films canon + 2 meilleurs films",
+        "recommended": true
+      },
+      {
+        "id": 3,
+        "icon": "🔥",
+        "name": "Le Complétiste",
+        "subtitle": "Parcours 3 — Tout",
+        "description": "Tous les épisodes, tous les films, tous les OVA. Pour les fans dévoués qui veulent tout voir de l'univers Naruto.",
+        "hours": "⏱ ~340 heures · Complétistes uniquement",
+        "includes": "Naruto + Shippuden (tous ép.) + 11 films + OVAs"
+      }
+    ],
+    "timeline": [
+      {
+        "num": 1,
+        "title": "Naruto (Partie 1)",
+        "subtitle": "Formation de l'Équipe 7 et premières aventures",
+        "type": "mixed",
+        "episodes": "220 épisodes",
+        "when": "Commencez ici",
+        "path": "Tous les parcours",
+        "verdict": "must_watch",
+        "watch_url": "#",
+        "notes": "La série originale. Établit tous les personnages principaux, le monde des ninjas et le rêve de Naruto de devenir Hokage."
+      },
+      {
+        "num": 2,
+        "title": "Ninja Clash in the Land of Snow",
+        "subtitle": "Film 1 (2004)",
+        "type": "non_canon",
+        "episodes": "1h 22min",
+        "when": "Après Naruto ép. 101",
+        "path": "Parcours 2 & 3",
+        "verdict": "watchable",
+        "watch_url": "#",
+        "notes": "L'Équipe 7 en mission pour protéger une princesse. Aventure standalone amusante."
+      },
+      {
+        "num": 3,
+        "title": "Legend of the Stone of Gelel",
+        "subtitle": "Film 2 (2005)",
+        "type": "non_canon",
+        "episodes": "1h 37min",
+        "when": "Après Naruto ép. 160",
+        "path": "Parcours 3 uniquement",
+        "verdict": "skip",
+        "watch_url": "#",
+        "notes": "Film standalone non-canon. À ignorer sans problème."
+      },
+      {
+        "num": 4,
+        "title": "Guardians of the Crescent Moon Kingdom",
+        "subtitle": "Film 3 (2006)",
+        "type": "non_canon",
+        "episodes": "1h 35min",
+        "when": "Après Naruto ép. 196",
+        "path": "Parcours 3 uniquement",
+        "verdict": "skip",
+        "watch_url": "#",
+        "notes": "Film standalone non-canon. À ignorer sans problème."
+      },
+      {
+        "num": 5,
+        "title": "Naruto Shippuden",
+        "subtitle": "L'histoire principale et la Quatrième Guerre Shinobi",
+        "type": "mixed",
+        "episodes": "500 épisodes",
+        "when": "Après Naruto Partie 1",
+        "path": "Tous les parcours",
+        "verdict": "must_watch",
+        "watch_url": "#",
+        "notes": "La suite directe. L'Akatsuki, l'Assaut de Pain, la Quatrième Guerre Shinobi et la confrontation finale de Naruto avec Sasuke."
+      },
+      {
+        "num": 6,
+        "title": "Shippuden : Le Film",
+        "subtitle": "Film 4 (2007)",
+        "type": "non_canon",
+        "episodes": "1h 34min",
+        "when": "Après Shippuden ép. 32",
+        "path": "Parcours 3 uniquement",
+        "verdict": "skip",
+        "watch_url": "#",
+        "notes": "Film standalone non-canon. À ignorer."
+      },
+      {
+        "num": 7,
+        "title": "Shippuden : Les Liens",
+        "subtitle": "Film 5 (2008)",
+        "type": "non_canon",
+        "episodes": "1h 30min",
+        "when": "Après Shippuden ép. 71",
+        "path": "Parcours 2 & 3",
+        "verdict": "watchable",
+        "watch_url": "#",
+        "notes": "L'un des meilleurs films non-canon. Met en scène Sasuke et une invasion de ninjas du ciel."
+      },
+      {
+        "num": 8,
+        "title": "Shippuden : La Flamme de la Jeunesse",
+        "subtitle": "Film 6 (2009)",
+        "type": "non_canon",
+        "episodes": "1h 35min",
+        "when": "Après Shippuden ép. 121",
+        "path": "Parcours 3 uniquement",
+        "verdict": "skip",
+        "watch_url": "#",
+        "notes": "Film standalone non-canon. À ignorer."
+      },
+      {
+        "num": 9,
+        "title": "Shippuden : La Tour Perdue",
+        "subtitle": "Film 7 (2010)",
+        "type": "non_canon",
+        "episodes": "1h 25min",
+        "when": "Après Shippuden ép. 143",
+        "path": "Parcours 3 uniquement",
+        "verdict": "skip",
+        "watch_url": "#",
+        "notes": "Film standalone non-canon. À ignorer."
+      },
+      {
+        "num": 10,
+        "title": "Shippuden : La Prison de Sang",
+        "subtitle": "Film 8 (2011)",
+        "type": "non_canon",
+        "episodes": "1h 48min",
+        "when": "Après Shippuden ép. 196",
+        "path": "Parcours 3 uniquement",
+        "verdict": "skip",
+        "watch_url": "#",
+        "notes": "Film standalone non-canon. À ignorer."
+      },
+      {
+        "num": 11,
+        "title": "Road to Ninja",
+        "subtitle": "Film 9 (2012)",
+        "type": "non_canon",
+        "episodes": "1h 50min",
+        "when": "Après Shippuden ép. 251",
+        "path": "Parcours 2 & 3",
+        "verdict": "watchable",
+        "watch_url": "#",
+        "notes": "Film non-canon apprécié des fans explorant une réalité alternative. À voir pour les fans de Naruto."
+      },
+      {
+        "num": 12,
+        "title": "The Last : Naruto le Film",
+        "subtitle": "CRUCIAL — La relation Naruto & Hinata",
+        "type": "film_canon",
+        "episodes": "1h 52min",
+        "when": "Après Shippuden ép. 493",
+        "path": "Tous les parcours",
+        "verdict": "must_watch",
+        "watch_url": "#",
+        "notes": "Film canon se déroulant entre les épisodes 493-494 de Shippuden. Essentiel pour l'arc romantique Naruto-Hinata.",
+        "recommended": true
+      },
+      {
+        "num": 13,
+        "title": "Boruto : Naruto le Film",
+        "subtitle": "La prochaine génération commence",
+        "type": "film_canon",
+        "episodes": "1h 35min",
+        "when": "Après la fin de Shippuden",
+        "path": "Tous les parcours",
+        "verdict": "must_watch",
+        "watch_url": "#",
+        "notes": "Film canon épilogue suivant le fils de Naruto, Boruto. À regarder après avoir terminé Shippuden en entier."
+      }
+    ],
+    "films": [
+      {
+        "title": "Ninja Clash in the Land of Snow",
+        "year": 2004,
+        "canon": false,
+        "placement": "Après Naruto ép. 101",
+        "verdict": "watchable"
+      },
+      {
+        "title": "Legend of the Stone of Gelel",
+        "year": 2005,
+        "canon": false,
+        "placement": "Après Naruto ép. 160",
+        "verdict": "skip"
+      },
+      {
+        "title": "Guardians of the Crescent Moon Kingdom",
+        "year": 2006,
+        "canon": false,
+        "placement": "Après Naruto ép. 196",
+        "verdict": "skip"
+      },
+      {
+        "title": "Shippuden : Le Film",
+        "year": 2007,
+        "canon": false,
+        "placement": "Après Shippuden ép. 32",
+        "verdict": "skip"
+      },
+      {
+        "title": "Shippuden : Les Liens",
+        "year": 2008,
+        "canon": false,
+        "placement": "Après Shippuden ép. 71",
+        "verdict": "watchable"
+      },
+      {
+        "title": "Shippuden : La Flamme de la Jeunesse",
+        "year": 2009,
+        "canon": false,
+        "placement": "Après Shippuden ép. 121",
+        "verdict": "skip"
+      },
+      {
+        "title": "Shippuden : La Tour Perdue",
+        "year": 2010,
+        "canon": false,
+        "placement": "Après Shippuden ép. 143",
+        "verdict": "skip"
+      },
+      {
+        "title": "Shippuden : La Prison de Sang",
+        "year": 2011,
+        "canon": false,
+        "placement": "Après Shippuden ép. 196",
+        "verdict": "skip"
+      },
+      {
+        "title": "Road to Ninja",
+        "year": 2012,
+        "canon": false,
+        "placement": "Après Shippuden ép. 251",
+        "verdict": "watchable"
+      },
+      {
+        "title": "The Last : Naruto le Film",
+        "year": 2014,
+        "canon": true,
+        "placement": "Après Shippuden ép. 493",
+        "verdict": "must_watch"
+      },
+      {
+        "title": "Boruto : Naruto le Film",
+        "year": 2015,
+        "canon": true,
+        "placement": "Après la fin de Shippuden",
+        "verdict": "must_watch"
+      }
+    ],
+    "fillers": [
+      {
+        "arc": "Mission d'escorte au Pays du Thé",
+        "episodes": "102–106",
+        "verdict": "skip",
+        "notes": "Filler début Partie 1. À ignorer sans problème."
+      },
+      {
+        "arc": "Investigation au Pays des Rizières",
+        "episodes": "136–141",
+        "verdict": "skip",
+        "notes": "Filler entre les arcs Tsunade et la récupération de Sasuke."
+      },
+      {
+        "arc": "Le Retour de Mizuki",
+        "episodes": "142–147",
+        "verdict": "skip",
+        "notes": "Arc filler. À ignorer entièrement."
+      },
+      {
+        "arc": "Arc Anbu de Kakashi (Shippuden)",
+        "episodes": "349–361",
+        "verdict": "must_watch",
+        "notes": "L'un des meilleurs arcs filler — le passé de Kakashi dans l'Anbu. Fortement recommandé."
+      },
+      {
+        "arc": "L'Histoire d'Itachi (Shippuden)",
+        "episodes": "451–458",
+        "verdict": "must_watch",
+        "notes": "Backstory essentielle pour Itachi Uchiha. Très recommandé même pour les spectateurs canon uniquement."
+      },
+      {
+        "arc": "Arc Power (Shippuden)",
+        "episodes": "290–295",
+        "verdict": "skip",
+        "notes": "Arc filler. À ignorer."
+      }
+    ],
+    "faq": [
+      {
+        "question": "Faut-il sauter les fillers de Naruto ?",
+        "answer": "Oui, en grande partie. 295 des 720 épisodes sont des fillers. L'histoire principale est parfaitement cohérente sans eux. Cependant, quelques arcs filler sont appréciés : l'arc Anbu de Kakashi (Shippuden 349-361) et l'histoire d'Itachi (Shippuden 451-458). Tout le reste peut être ignoré sans problème."
+      },
+      {
+        "question": "Peut-on commencer directement par Naruto Shippuden ?",
+        "answer": "Non recommandé. Shippuden part du principe que vous connaissez tous les personnages, leurs relations et l'univers établis dans la Partie 1. Vous seriez perdu sur les motivations des personnages et les points clés de l'intrigue. Commencez par Naruto Partie 1 — vous pouvez sauter les fillers pour avancer plus vite."
+      },
+      {
+        "question": "Quels films Naruto valent la peine d'être vus ?",
+        "answer": "Seuls deux films sont canon : The Last (après Shippuden ép. 493) et Boruto (après la fin de Shippuden). Les deux sont indispensables. Parmi les films non-canon, Ninja Clash in the Land of Snow, Les Liens et Road to Ninja sont les plus divertissants. Le reste peut être ignoré."
+      },
+      {
+        "question": "Où peut-on regarder Naruto ?",
+        "answer": "Crunchyroll propose les séries Naruto et Shippuden complètes, ainsi que la plupart des films. Netflix diffuse les deux séries dans certaines régions. Hulu possède également la série complète. Pour les films, vérifiez d'abord Crunchyroll, puis les plateformes de location numérique."
+      },
+      {
+        "question": "Combien de temps faut-il pour regarder tout Naruto ?",
+        "answer": "Canon uniquement (ignorer tous les fillers) : environ 220 heures. Expérience standard (ignorer la plupart des fillers, garder les bons arcs + films canon) : environ 240 heures. Parcours complétiste (tout) : 340+ heures. La plupart des fans terminent le parcours canon en 3-4 mois en regardant 2-3 épisodes par jour."
+      },
+      {
+        "question": "Faut-il regarder Boruto après Naruto ?",
+        "answer": "Ce n'est pas obligatoire. L'histoire de Naruto se conclut de manière satisfaisante à la fin de Shippuden. Boruto est une série suite axée sur la prochaine génération. Regardez d'abord Boruto : Naruto le Film — si vous l'appréciez, la série Boruto pourrait vous plaire. Sinon, vous ne manquez pas la conclusion de Naruto."
+      }
+    ],
+    "streaming": [
+      {
+        "platform": "Crunchyroll",
+        "icon": "🟠",
+        "available": ["Naruto", "Naruto Shippuden", "La plupart des films", "Boruto (si vous continuez)"],
+        "cta": "Commencer sur Crunchyroll — 14 jours gratuits",
+        "url": "https://www.crunchyroll.com/?utm_source=animewatchorder&utm_medium=affiliate"
+      },
+      {
+        "platform": "Netflix",
+        "icon": "🔴",
+        "available": ["Naruto (régions sélectionnées)", "Naruto Shippuden (régions sélectionnées)"],
+        "cta": "Vérifier la disponibilité sur Netflix",
+        "url": "https://www.netflix.com/"
+      },
+      {
+        "platform": "Hulu",
+        "icon": "🟢",
+        "available": ["Naruto", "Naruto Shippuden", "Films sélectionnés"],
+        "cta": "Regarder sur Hulu",
+        "url": "https://www.hulu.com/"
+      }
+    ],
+    "manga": {
+      "title": "Vous voulez aller plus loin ? Continuez avec le manga.",
+      "description": "Le manga Naruto est complet en 700 chapitres, se terminant au même point que l'anime. Cependant, la série suite Boruto: Naruto Next Generations continue l'histoire avec le fils de Naruto. Le manga Boruto est en cours et souvent en avance sur l'anime, ce qui en fait un excellent moyen de continuer si vous avez aimé l'univers de Naruto.",
+      "link_text": "Naruto Tome 1 sur Amazon",
+      "link_url": "https://www.amazon.fr/dp/2505003904?tag=YOURAFFID"
+    },
+    "ui": {
+      "quick_answer_label": "⚡ Réponse Rapide",
+      "why_confusing_label": "🤔 Pourquoi Naruto Est Compliqué",
+      "compare_verdict_label": "✅ Notre Verdict",
+      "timeline_heading": "Timeline Complète de Naruto",
+      "films_heading": "Guide Complet des Films",
+      "fillers_heading": "Guide des Fillers",
+      "faq_heading": "Questions Fréquentes",
+      "streaming_heading": "Où Regarder Naruto",
+      "manga_heading": "Continuer avec le Manga",
+      "paths_heading": "Choisissez Votre Parcours",
+      "recommended_label": "RECOMMANDÉ",
+      "col_num": "#",
+      "col_title": "Titre",
+      "col_type": "Type",
+      "col_episodes": "Épisodes / Durée",
+      "col_when": "Quand Regarder",
+      "col_path": "Parcours",
+      "col_verdict": "Verdict",
+      "col_watch": "Regarder",
+      "must_watch": "✦ Incontournable",
+      "watchable": "✧ Regardable",
+      "skip": "◌ Passer",
+      "canon": "Canon",
+      "mixed": "Canon + Filler",
+      "film_canon": "Film · Canon",
+      "non_canon": "Non-Canon",
+      "filler": "Filler",
+      "film_year": "Année",
+      "film_canon_status": "Canon ?",
+      "film_placement": "Placement",
+      "film_verdict": "Verdict",
+      "filler_arc": "Arc",
+      "filler_episodes": "Épisodes",
+      "filler_verdict": "Verdict",
+      "filler_notes": "Notes",
+      "yes": "Oui",
+      "no": "Non",
+      "home_title": "Guides d'Ordre de Visionnage Anime",
+      "home_subtitle": "Des guides clairs et structurés pour les franchises anime les plus complexes.",
+      "home_cta": "Voir le Guide",
+      "nav_home": "Accueil",
+      "lang_switch": "EN",
+      "lang_switch_url": "/naruto/",
+      "footer_text": "AnimeWatchOrder.com — Guides d'ordre de visionnage anime indépendants. Non affilié à une plateforme de streaming.",
+      "footer_affiliate": "Ce site contient des liens d'affiliation. Nous pouvons recevoir une commission sans coût supplémentaire pour vous."
+    }
+  }
+}

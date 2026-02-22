@@ -29,7 +29,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 GOOGLE_SITE_VERIFICATION = '<meta name="google-site-verification" content="NC4herujRe5TMX77VnhqjvWdJa6XAwBd5iAVIGxwXbk" />'
 
 # Series to generate (add new slugs here)
-SERIES = ["dragon-ball"]
+SERIES = ["dragon-ball", "naruto"]
 
 
 def load_json(slug):
@@ -499,8 +499,9 @@ def generate_homepage(lang, series_list):
         slug = s["slug"]
         d = s["data"][lang]
         link = f"{lang_prefix}/{slug}/"
+        emoji = d.get("emoji", "🎬")
         cards_html += f"""      <a href="{link}" class="series-card">
-        <span class="series-card__emoji">🐉</span>
+        <span class="series-card__emoji">{emoji}</span>
         <div class="series-card__title">{d['title']}</div>
         <div class="series-card__meta">{d['category_tag']}</div>
         <span class="series-card__cta">{cta_text} →</span>
